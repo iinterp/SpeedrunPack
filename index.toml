@@ -2,22 +2,22 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "9726b1bfe577808677515a79f1b6453f2fa71d2e16c7ba6b21a1175f6e31eb3d"
+hash = "020dae2663fddb30ace09b44a390498fd70470196f752090765db9a1e93d7ea6"
 metafile = true
 
 [[files]]
 file = "mods/biomethreadlocalfix.pw.toml"
-hash = "851a84d7db7f3229fb2baf0f2f51b1f022e5337f9ad77eea686f4cf23939d1d4"
+hash = "9c52a802edf492d2c0445fa4c9f152ccaca05ff497927b48f3ee7e01c3e85a8e"
 metafile = true
 
 [[files]]
 file = "mods/fabricproxy-lite.pw.toml"
-hash = "d9b62d1b2ef6ddeabc5eef86fd63295443db2d454e2433548b6d32a86e18d5ba"
+hash = "8a1eaa60f58806709779c5f544310895da3c0557c7d48a1305ffdde46f3f404e"
 metafile = true
 
 [[files]]
 file = "mods/fastreset.pw.toml"
-hash = "340aae899abc228c450223447ac30b5ebbac1916de0800ec6ac34c7598dfd72f"
+hash = "47895d1ec9fa6bf4e6a1f430338ab8d7aec57338373f2750de885a25926237b7"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "3f216956fa906cfdfb32976d3a0b365d11c9c08294e50b0e413dfe6b96468bac"
+hash = "f3eecf9ee4c3516cc2448c8cebbda549542cbaaa3108c2030614af40778caf4c"
 metafile = true
 
 [[files]]
@@ -42,22 +42,32 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "36f5d2c0ab96da2168fe913b79e368b9c0b4e2fcb212260d2f5f25cc6a94a1cc"
+hash = "0b87b82d70e961e8d3d2f23cf10ec1291a55b143188ac4cc10158b16dea24414"
 metafile = true
 
 [[files]]
 file = "mods/mcsr-antiresourcereload-1-17-1-1-18-1.pw.toml"
-hash = "dd42745719c16b4dce56942e2048ae7c7604297e12892609731b49fd30205a56"
+hash = "528f74c0e579bf901563967d5c9ed463a11566efe16a5f6ca311b63f4a2f96ff"
+metafile = true
+
+[[files]]
+file = "mods/mcsr-chunkcacher-1-16-1-17-1.pw.toml"
+hash = "be82272a26316f663597098586530a6e85d60feb297972df9c9a2ac03c70da04"
+metafile = true
+
+[[files]]
+file = "mods/mcsr-set-spawn-1-17-1.pw.toml"
+hash = "ece4e62500a2921003a7a33c377b191a6fcdac3027e2ec6491899bb82ef6b6a6"
 metafile = true
 
 [[files]]
 file = "mods/mcsr-sodium-1-17-1.pw.toml"
-hash = "ea35fc9ca751d215ff2629c422d335d60f212faebc13fbec8a6faf59c6ae46b5"
+hash = "378ca4e578625f6224455358ae9d71773fe7e36cfaea73d53026330c448dda70"
 metafile = true
 
 [[files]]
 file = "mods/phosphor.pw.toml"
-hash = "b97e50a5d877e7abb498704b72807007a2cda15a0fb6d51eea8fb523d3b663f8"
+hash = "19e4e1b0db5a499aff189b64e7c62593f9b0fbd3384b410f2d136614e0a3fa04"
 metafile = true
 
 [[files]]
@@ -67,15 +77,20 @@ metafile = true
 
 [[files]]
 file = "mods/speedrunigt.pw.toml"
-hash = "98cf42399ffe1afd5fff7b19cdb50ffa2e3db10023a92b1c31d09fcaf340251b"
+hash = "ce633e5197b6241aaa242153a5becb7c5d4ec472ae950f98a3b2b68dbab40daa"
+metafile = true
+
+[[files]]
+file = "mods/standardsettings.pw.toml"
+hash = "e259c0d2e8ae4e958f299f3b7e0fbaa4f2cc91cef314449748d9c8af3bad187f"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "2cb2b2044de9165cfb429946b23ca35e98df33778a6a32e71fd6e91dd73dac12"
+hash = "fb757c76bc38903b0122af3ae428c417a2ae19125274b08d88c899f67fc188c3"
 metafile = true
 
 [[files]]
 file = "mods/worldpreview.pw.toml"
-hash = "5a7fa75165c08f17f42f87db747525c385ce121193bd0ea55c96c7b182dea383"
+hash = "6e917c9675a1893b488f3ad09f7908389b14ae8c86c59f26506b235a4df7177d"
 metafile = true
