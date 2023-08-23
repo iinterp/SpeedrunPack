@@ -1,0 +1,14 @@
+name = "krypton"
+filename = "krypton-1.16.1-backport-0.1.3-SNAPSHOT+2021-02-20.jar"
+side = "both"
+
+[download]
+url = "https://github.com/mrmangohands/krypton/releases/download/mc1.16.1-0.1.3-SNAPSHOT%2B2021-02-20/krypton-1.16.1-backport-0.1.3-SNAPSHOT%2B2021-02-20.jar"
+hash-format = "sha256"
+hash = "647a8865773408e53242afebaf5d18b8412616c1c260f1ff5ddcf1c0cbf50c87"
+
+[update]
+[update.github]
+branch = "1.16.1"
+slug = "mrmangohands/krypton"
+tag = "mc1.16.1-0.1.3-SNAPSHOT+2021-02-20"

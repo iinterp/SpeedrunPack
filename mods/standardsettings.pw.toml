@@ -1,0 +1,13 @@
+name = "StandardSettings"
+filename = "standardsettings-1.2.2+1.15.x.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KingContaria/StandardSettings/releases/download/v1.2.2/standardsettings-1.2.2+1.15.x.jar"
+hash-format = "sha256"
+hash = "5fa9101865ca8f9711a08d8333756bb088ba97f8827d97cf43f4c661ced7925c"
+
+[option]
+optional = true
+default = false
+description = "For advanced users only - visit the mods page to find out more."

@@ -1,0 +1,14 @@
+name = "Starlight"
+filename = "starlight-1.15-1.0.0-alpha.jar"
+side = "both"
+
+[download]
+url = "https://github.com/dariasc/Starlight/releases/download/1.15/1.0.0-alpha/starlight-1.15-1.0.0-alpha.jar"
+hash-format = "sha256"
+hash = "0d81b35f1ac622ebeee866282194c89c9f62c854dbe7bda36b1c27ac71ab5c52"
+
+[update]
+[update.github]
+branch = "1.15"
+slug = "dariasc/Starlight"
+tag = "1.15/1.0.0-alpha"

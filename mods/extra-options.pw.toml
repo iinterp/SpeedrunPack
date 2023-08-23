@@ -1,0 +1,13 @@
+name = "extra-options"
+filename = "extra-options-1.0.0-1.15.jar"
+side = "both"
+
+[download]
+url = "https://github.com/VoidXWalker/extra-options/releases/download/v1.0.0/extra-options-1.0.0-1.15.jar"
+hash-format = "sha256"
+hash = "e9c23ef207235e1dbd2b8f107c6437611d16f571218e5df10c25d7bfb9317aa2"
+
+[option]
+optional = true
+default = false
+description = "Allowed if medically necessary only, with permission from the moderation team *before* submission."

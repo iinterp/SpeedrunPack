@@ -1,0 +1,14 @@
+name = "mcsr-worldpreview-1.15.2"
+filename = "worldpreview-1.15.2-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-worldpreview-1.15.2/releases/download/latest/worldpreview-1.15.2-3.0.0.jar"
+hash-format = "sha256"
+hash = "bd5009d6a6441a2ba55aff804c9c3c25922e59033b083c2c61abe248d4cd06a5"
+
+[update]
+[update.github]
+branch = "main"
+slug = "Minecraft-Java-Edition-Speedrunning/mcsr-worldpreview-1.15.2"
+tag = "latest"

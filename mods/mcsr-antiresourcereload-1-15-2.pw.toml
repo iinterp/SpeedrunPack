@@ -1,0 +1,14 @@
+name = "mcsr-antiresourcereload-1.15.2"
+filename = "antiresourcereload-1.15.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-antiresourcereload-1.15.2/releases/download/v1/antiresourcereload-1.15.2-1.0.0.jar"
+hash-format = "sha256"
+hash = "c4653e068153a74e58bdc8a0647fbbb59aff45163130b4af04d3590806815ae4"
+
+[update]
+[update.github]
+branch = "main"
+slug = "Minecraft-Java-Edition-Speedrunning/mcsr-antiresourcereload-1.15.2"
+tag = "v1"
