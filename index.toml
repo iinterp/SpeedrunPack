@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcsr-set-spawn-1-16-1.pw.toml"
-hash = "0908e3ffe01d75cb5bf3b8444bfe49cddcb6837b6034fc6f2b58c3d3e1d95f2f"
+hash = "32f3708be31f81f03bd8e357f40e7d5d214fbc28b876e1921488d6e1ccb118f2"
 metafile = true
 
 [[files]]
@@ -99,3 +99,7 @@ metafile = true
 file = "mods/voyager.pw.toml"
 hash = "858ed41b23f8b100662a539f484734b99062f7d34b6acfc3ad35c7494d1ab8af"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "dc81813e75e8c3a07d7ddfa736e404071e82dd3ece31b0293dfef8c3f58a61ec"
