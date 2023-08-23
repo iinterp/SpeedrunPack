@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/atum.pw.toml"
+hash = "d0c05c2e52ec19a50216bca80eed031aa0b9b9bf7be34c56d197af6847a896ad"
+metafile = true
+
+[[files]]
+file = "mods/biomethreadlocalfix.pw.toml"
+hash = "851a84d7db7f3229fb2baf0f2f51b1f022e5337f9ad77eea686f4cf23939d1d4"
+metafile = true
+
+[[files]]
+file = "mods/force-port-mod.pw.toml"
+hash = "0279d9a4f13e487840203842c6497d7a63ba6a1771a81a2adc963e3b8f07810f"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "9480f9e11e91eb82ba616c5c622c218d7b7ceff6599a3348d557eb1a1ddd41f9"
+metafile = true
+
+[[files]]
+file = "mods/mcsr-chunkcacher-1-18-1-18-2.pw.toml"
+hash = "9f7c8f9779273f39bf17fd1c4b5e6f496bf548f7b14e5a1c6f3ea66c222c5eff"
+metafile = true
+
+[[files]]
+file = "mods/mcsr-sodium-1-18-2.pw.toml"
+hash = "13841e47049c40cfd7d7f69ec63056aba4a7fe8c31effdb2f80b59f7e5b4f41e"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "64fc796bae08e7e4a5813043581cedc1aea1594defd2d6c4a2dc9e17ff6c37b7"
+metafile = true
+
+[[files]]
+file = "mods/sleepbackground.pw.toml"
+hash = "04cda588271851e7337299cb6e2bad7695d23f325359325ce415a047e61a95df"
+metafile = true
+
+[[files]]
+file = "mods/speedrunigt.pw.toml"
+hash = "78f72b65395c3561d1b78d7c0cbd96ad25fe2320fb75b9a63dfa316ced99b0d3"
+metafile = true
+
+[[files]]
+file = "mods/standardsettings.pw.toml"
+hash = "46dddec9df25c51f4f1087239795e27af8ffb96ee23692e9fd47708ee490b20f"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "99f9628800ccabd189b9bb28859f01caaf9ad672f247ae875e3eaa5f965f9406"
+metafile = true

@@ -1,0 +1,19 @@
+name = "mcsr-chunkcacher-1.18-1.18.2"
+filename = "chunkcacher-1.18-1.18.2-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-chunkcacher-1.18-1.18.2/releases/download/v3/chunkcacher-1.18-1.18.2-3.0.0.jar"
+hash-format = "sha256"
+hash = "8fa46f8f0227bb429b5e9dfcfbc336f485643661227ae9620ee466d997c61e35"
+
+[update]
+[update.github]
+branch = "main"
+slug = "Minecraft-Java-Edition-Speedrunning/mcsr-chunkcacher-1.18-1.18.2"
+tag = "v3"
+
+[option]
+optional = true
+default = false
+description = "This mod is allowed ONLY for Set Seed runs. Incompatible with World Preview & LazyStronghold."
