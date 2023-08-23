@@ -1,0 +1,13 @@
+name = "WorldPreview"
+filename = "worldpreview-2.3.3+1.17.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tKUU4TXD/versions/zL0kzULM/worldpreview-2.3.3%2B1.17.1.jar"
+hash-format = "sha1"
+hash = "07dbe0a2a82cb5995b490f3443441f43cf894811"
+
+[update]
+[update.modrinth]
+mod-id = "tKUU4TXD"
+version = "zL0kzULM"

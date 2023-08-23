@@ -1,0 +1,13 @@
+name = "SpeedRunIGT"
+filename = "SpeedRunIGT-13.6+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jnkd7LkJ/versions/mE4gCbq7/SpeedRunIGT-13.6%2B1.17.1.jar"
+hash-format = "sha1"
+hash = "019cb352886709902daf07a295aba68158b5944f"
+
+[update]
+[update.modrinth]
+mod-id = "jnkd7LkJ"
+version = "mE4gCbq7"

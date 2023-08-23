@@ -1,0 +1,14 @@
+name = "Force-Port-Mod"
+filename = "forceport-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/DuncanRuns/Force-Port-Mod/releases/download/v1.1.0/forceport-1.1.0.jar"
+hash-format = "sha256"
+hash = "2d717446fec3f4c8ce59d873bd0fad159e10fced68777aa7f40b77858923c14c"
+
+[update]
+[update.github]
+branch = "main"
+slug = "DuncanRuns/Force-Port-Mod"
+tag = "v1.1.0"
