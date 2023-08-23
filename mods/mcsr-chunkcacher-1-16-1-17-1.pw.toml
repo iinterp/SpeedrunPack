@@ -16,4 +16,4 @@ tag = "v2"
 [option]
 optional = true
 default = false
-description = "This mod is allowed ONLY for Set Seed or Set Seed Glitchless runs. Incompatible with World Preview & LazyStronghold."
+description = "This mod is allowed ONLY for Set Seed runs. Incompatible with World Preview & LazyStronghold."

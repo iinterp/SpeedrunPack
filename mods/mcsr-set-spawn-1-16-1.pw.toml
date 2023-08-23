@@ -15,4 +15,4 @@ tag = "v3"
 
 [option]
 optional = true
-description = "This mod is allowed ONLY for Set Seed or Set Seed Glitchless runs. Incompatible with World Preview."
+description = "This mod is allowed ONLY for Set Seed runs. Incompatible with World Preview."
