@@ -99,3 +99,7 @@ metafile = true
 file = "mods/worldpreview.pw.toml"
 hash = "1450161f0d74f6e299c7c0cc8a0b5ebd0ccf03f72eee7e10c1ea14674bb5a3ce"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "dc81813e75e8c3a07d7ddfa736e404071e82dd3ece31b0293dfef8c3f58a61ec"
