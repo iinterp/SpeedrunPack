@@ -1,0 +1,8 @@
+name = "lazystronghold"
+filename = "lazystronghold-1.1.2+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Gregor0410/LazyStronghold/releases/download/v1.1.2/lazystronghold-1.1.2+1.16.5.jar"
+hash-format = "sha256"
+hash = "ca63772fb63c4533da83b8def6a1d56d73ac5112ba0cfcd3f8cf0a099ea2cfd7"

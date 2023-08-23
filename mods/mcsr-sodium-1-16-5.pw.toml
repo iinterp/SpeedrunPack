@@ -1,0 +1,14 @@
+name = "mcsr-sodium-1.16.5"
+filename = "sodium-1.16.5-v1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-sodium-1.16.5/releases/download/v1/sodium-1.16.5-v1.jar"
+hash-format = "sha256"
+hash = "219727244b31747c10c4e90ed44ad4b102a0c5f9347e73f1a2223bf175e0c2e0"
+
+[update]
+[update.github]
+branch = "main"
+slug = "Minecraft-Java-Edition-Speedrunning/mcsr-sodium-1.16.5"
+tag = "v1"

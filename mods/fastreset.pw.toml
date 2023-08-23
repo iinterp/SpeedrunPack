@@ -1,0 +1,8 @@
+name = "FastReset"
+filename = "fast-reset-1.16.5-v1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jan-leila/FastReset/releases/download/1.16.5-1.0.0/fast-reset-1.16.5-v1.0.0.jar"
+hash-format = "sha256"
+hash = "18781d9c54cdea386cae45695b1c806fcb6ccfba1ed876c11e41db6ba8358615"

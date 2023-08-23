@@ -1,0 +1,14 @@
+name = "BiomeThreadLocalFix"
+filename = "BiomeThreadLocalFix-1.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/RedLime/BiomeThreadLocalFix/releases/download/1.4/BiomeThreadLocalFix-1.4.jar"
+hash-format = "sha256"
+hash = "cd116e78e558d9638f865685f471cecfd5ebf822eb3ed7e8cc1e5975917635f1"
+
+[update]
+[update.github]
+branch = "public"
+slug = "RedLime/BiomeThreadLocalFix"
+tag = "1.4"

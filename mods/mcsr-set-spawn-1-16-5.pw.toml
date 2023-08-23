@@ -1,0 +1,18 @@
+name = "mcsr-set-spawn-1.16.5"
+filename = "setspawnmod-1.16.5-v3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-set-spawn-1.16.5/releases/download/v3/setspawnmod-1.16.5-v3.jar"
+hash-format = "sha256"
+hash = "2290f1ae5731dbe3b0c17af46210a705bcf25b868bc9d38cdd9bf20de163cc0a"
+
+[update]
+[update.github]
+branch = "main"
+slug = "Minecraft-Java-Edition-Speedrunning/mcsr-set-spawn-1.16.5"
+tag = "v3"
+
+[option]
+optional = true
+description = "This mod is allowed ONLY for Set Seed runs. Incompatible with World Preview."
