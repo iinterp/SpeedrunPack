@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/biomethreadlocalfix.pw.toml"
+hash = "851a84d7db7f3229fb2baf0f2f51b1f022e5337f9ad77eea686f4cf23939d1d4"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "a5b76c9b8cf9cea727b4695aada4f4ef7224046a10cd8cb9f9f276916ca02f4b"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "b1880799b6a03be7c53cc6c09f15d1aabfabd3c14fde9e91b7ce7d2a75fcd3a5"
+metafile = true
+
+[[files]]
+file = "mods/sleepbackground.pw.toml"
+hash = "7368529037edff8ff74cabd54c2b3c72abd298f84f3d3b14899845efa98836d9"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
+file = "mods/speedrunigt.pw.toml"
+hash = "c486526e3eb3c90a9a90a58a1a188af86eca2ef368b6ece6d8ae7c8764ed9213"
+metafile = true
+
+[[files]]
+file = "mods/standardsettings.pw.toml"
+hash = "5867921646d2bb596b4aa6b532a23b8879a8b84cf3f8621a62a143a5f2ecf5dd"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
