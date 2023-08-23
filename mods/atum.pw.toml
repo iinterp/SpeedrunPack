@@ -1,0 +1,13 @@
+name = "Atum"
+filename = "atum-1.1.3+1.14.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PNEi3GLK/versions/9kgyhSnQ/atum-1.1.3%2B1.14.4.jar"
+hash-format = "sha1"
+hash = "f41fee96c857a7b405ae25aef8cc33fa995b6d21"
+
+[update]
+[update.modrinth]
+mod-id = "PNEi3GLK"
+version = "9kgyhSnQ"

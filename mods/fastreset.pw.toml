@@ -1,0 +1,14 @@
+name = "FastReset"
+filename = "fast_reset-1.14.4-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/marieee824/FastReset/releases/download/1.14.4/fast_reset-1.14.4-1.0.0.jar"
+hash-format = "sha256"
+hash = "7c6189fbe7eacbe0f11b18bbec397cc5af0f9b603d0409222388dbb7adde1ef5"
+
+[update]
+[update.github]
+branch = "1.14.4"
+slug = "marieee824/FastReset"
+tag = "1.14.4"

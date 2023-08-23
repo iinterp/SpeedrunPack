@@ -1,0 +1,14 @@
+name = "LegacyPlanarFog"
+filename = "z-buffer-fog-1.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/RedLime/LegacyPlanarFog/releases/download/1.3/z-buffer-fog-1.3.jar"
+hash-format = "sha256"
+hash = "749fd8532fb59127b925e7324274fc60801bb9f6c927f542ad7ec65874ef84e6"
+
+[update]
+[update.github]
+branch = "master"
+slug = "RedLime/LegacyPlanarFog"
+tag = "1.3"

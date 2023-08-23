@@ -1,0 +1,13 @@
+name = "OptiFabric-Origins"
+filename = "optifabric-origins-1.0.1-mc1.14.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Sjouwer/OptiFabric-Origins/releases/download/v1.0.1/optifabric-origins-1.0.1-mc1.14.4.jar"
+hash-format = "sha256"
+hash = "5d4d60d463ef1890e81d8680ad13eb1be5884ae8fdf45fdd229363564d93d78c"
+
+[option]
+optional = true
+default = false
+description = "Enable if you intend to also add OptiFine. OptiFine is incompatible with WorldPreview and LegacyPlanarFog/ZBufferFog."

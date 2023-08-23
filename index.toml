@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/atum.pw.toml"
+hash = "a2fed9bba839b884da46f398d60b5b1d82790e0ad6ef16e44e3ecc15821bdb5a"
+metafile = true
+
+[[files]]
+file = "mods/extra-options.pw.toml"
+hash = "69d90aaed79a1f3b48d7145e9df0119a8d15232ae57b28e6c3998b2fb6757e23"
+metafile = true
+
+[[files]]
+file = "mods/fastreset.pw.toml"
+hash = "051a87a5e8938f21fb8e3011325b6062b2bcf852f666d8d7c4515b2445eec1ac"
+metafile = true
+
+[[files]]
+file = "mods/force-port-mod.pw.toml"
+hash = "0279d9a4f13e487840203842c6497d7a63ba6a1771a81a2adc963e3b8f07810f"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lazystronghold.pw.toml"
+hash = "c7bbdb0c1e433bf32eddbc21f58b5c17c0a5e0b7b337e0a83651adb2f859821f"
+metafile = true
+
+[[files]]
+file = "mods/legacyplanarfog.pw.toml"
+hash = "e116654eaa0f57a5db54cfa382f27c940bbe3971a60c98a6643210b8aed335b0"
+metafile = true
+
+[[files]]
+file = "mods/mcsr-antiresourcereload-1-14-4.pw.toml"
+hash = "59e06e5669b8fc3e2b4900573a8b9ec16fb9a5a704d051c7824fea322b2ee950"
+metafile = true
+
+[[files]]
+file = "mods/mcsr-chunkcacher-1-14-1-15-2.pw.toml"
+hash = "b7b485bd84e265cf6b837a340864d455928299a609257d186ccb9c2313e8438d"
+metafile = true
+
+[[files]]
+file = "mods/optifabric-origins.pw.toml"
+hash = "fd9f2e33837bf00d28e113130b1640c7072fd618cf737ca0817afb54beddb471"
+metafile = true
+
+[[files]]
+file = "mods/sleepbackground.pw.toml"
+hash = "00a20700662a08e2b3e74cf154833f2f834360cd849ac141cd54b6f08d037330"
+metafile = true
+
+[[files]]
+file = "mods/speedrunigt.pw.toml"
+hash = "2a0b3440615f1f47065724277aa6e5bdee77ea148cc4670a2f6d9813b2ffdf73"
+metafile = true
+
+[[files]]
+file = "mods/standardsettings.pw.toml"
+hash = "69cf731df8c977c6fddb3ac3dd89254d4e0be1bec752c28d2a0eac0d9f54d9ae"
+metafile = true
+
+[[files]]
+file = "mods/voyager.pw.toml"
+hash = "591dc1fe2a36a74a7f1fac16217dcde7790e8edcdbc1d8a5e7c2aec597086648"
+metafile = true
+
+[[files]]
+file = "mods/worldpreview.pw.toml"
+hash = "5979b5bcbbe587f027a3f5c12a570f0b4f47cfe76acb299b6b0697a36cabf554"
+metafile = true
