@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphor.pw.toml"
-hash = "17b37dfaddb51c7f42c22805322b285532449b6a9c7ef8e3c57c47210dd6db06"
+hash = "b0d9b17fe123737596a2d8269ea7de1ee11448d339013467ec019c8414bd57f9"
 metafile = true
 
 [[files]]

@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/CaffeineMC/phosphor-fabric/releases/download/mc1.16.1-v0.6.0/phosphor-fabric-mc1.16.1-0.6.0+build.7-dev.jar"
 hash-format = "sha1"
-hash = "31fd4fb879210feb06d5e08c1c97ea20816d291ae324e4f68f283c75685b0328"
+hash = "b4b7b302fc5f13d29eb633410a75f0449bb487bc"
 
 [option]
 optional = true
