@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/mcsr-chunkcacher-1-16-1-17-1.pw.toml"
-hash = "29785e7ce4f7cbb7df5fba9a644f0bf79367a74e1fc5404dea96d43fcfcd9905"
+hash = "be82272a26316f663597098586530a6e85d60feb297972df9c9a2ac03c70da04"
 metafile = true
 
 [[files]]
 file = "mods/mcsr-set-spawn-1-16-5.pw.toml"
-hash = "d39e89e9a569bc32ad97f5bdf7f6bca92b139a70b84425da8892abf4a09c9140"
+hash = "98b6d077edb9aab5fd70f6a16f3ccefb5b1e0d81e32718ed520e67e92596f9b6"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphor.pw.toml"
-hash = "6821fd49ba8b7b36307c1942ba3ea4303f0b47ee647519f3a13039d9a05605a7"
+hash = "43a40c3c126e0145293de8671a4e37d0ca2a6a28a6b1ac995631054827da4a44"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/standardsettings.pw.toml"
-hash = "a5b8716571775df37eecdea54585f01392c6c72ae524b67638583f87c2a9f27c"
+hash = "baa50e03dbfea38eb3e21a3922d283c4f46c793c99e8278e279892c3beff3d0e"
 metafile = true
 
 [[files]]
