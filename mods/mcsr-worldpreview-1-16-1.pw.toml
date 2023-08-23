@@ -1,0 +1,14 @@
+name = "mcsr-worldpreview-1.16.1"
+filename = "worldpreview-1.16.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-worldpreview-1.16.1/releases/download/v4/worldpreview-1.16.1-4.0.0.jar"
+hash-format = "sha256"
+hash = "888dff5f6c613dc650b9a135f309a3451c14aa480549a5fc60fac2b70a37d5b6"
+
+[update]
+[update.github]
+branch = "main"
+slug = "Minecraft-Java-Edition-Speedrunning/mcsr-worldpreview-1.16.1"
+tag = "v4"

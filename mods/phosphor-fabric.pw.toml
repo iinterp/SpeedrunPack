@@ -1,0 +1,19 @@
+name = "phosphor-fabric"
+filename = "phosphor-1.16.1-backport-fabric-0.7.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/mrmangohands/phosphor-fabric/releases/download/mc1.16.1-0.7.2/phosphor-1.16.1-backport-fabric-0.7.2.jar"
+hash-format = "sha256"
+hash = "900546d8ec200daad1071a8d6a948f888b60144ddb004e3c3e9e28dde231313d"
+
+[update]
+[update.github]
+branch = "1.16.1/dev"
+slug = "mrmangohands/phosphor-fabric"
+tag = "mc1.16.1-0.7.2"
+
+[option]
+optional = true
+default = false
+description = "Incompatible with Starlight."

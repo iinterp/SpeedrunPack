@@ -1,0 +1,13 @@
+name = "SpeedrunPack 1.16.1"
+author = "interp"
+version = "v1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a2593f47100123f3953096eb201b9b7a00f328fbc64a2ee3c6f0a371a34f5cf5"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.16.1"

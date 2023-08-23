@@ -1,0 +1,14 @@
+name = "lithium-fabric"
+filename = "lithium-1.16.1-backport-fabric-0.6.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/mrmangohands/lithium-fabric/releases/download/mc1.16.1-0.6.6/lithium-1.16.1-backport-fabric-0.6.6.jar"
+hash-format = "sha256"
+hash = "5d8ba2ceccf9255c5d75a1be3af628d6b5c3d92cf64dcaf333d9c80d00f8a8dc"
+
+[update]
+[update.github]
+branch = "1.16.1/dev"
+slug = "mrmangohands/lithium-fabric"
+tag = "mc1.16.1-0.6.6"

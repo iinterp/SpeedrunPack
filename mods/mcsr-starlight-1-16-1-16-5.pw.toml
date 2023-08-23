@@ -1,0 +1,14 @@
+name = "mcsr-starlight-1.16-1.16.5"
+filename = "starlight-1.16.1-v7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-starlight-1.16-1.16.5/releases/download/v7/starlight-1.16.1-v7.jar"
+hash-format = "sha256"
+hash = "8fcdd40a4c43e52333a4aa49793032e1b829dac6dc3190b62d083923339c6689"
+
+[update]
+[update.github]
+branch = "main"
+slug = "Minecraft-Java-Edition-Speedrunning/mcsr-starlight-1.16-1.16.5"
+tag = "v7"
