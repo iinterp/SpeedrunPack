@@ -1,0 +1,8 @@
+name = "SleepBackground"
+filename = "sleepbackground-3.8-1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://github.com/RedLime/SleepBackground/releases/download/3.8/sleepbackground-3.8-1.19.x.jar"
+hash-format = "sha256"
+hash = "93b9f0db765ca49f9f568af3f766484e4288def84b84d2e072019c11ebd319d5"
