@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "client-overrides/options.txt"
+hash = "dc81813e75e8c3a07d7ddfa736e404071e82dd3ece31b0293dfef8c3f58a61ec"
+
+[[files]]
 file = "mods/atum.pw.toml"
 hash = "101bcb37b91c7cacb15b224e51e72a31776e5ce2efc786da7d7841bdcd31857a"
 metafile = true
@@ -42,12 +46,12 @@ metafile = true
 
 [[files]]
 file = "mods/mcsr-chunkcacher-1-14-1-15-2.pw.toml"
-hash = "b7b485bd84e265cf6b837a340864d455928299a609257d186ccb9c2313e8438d"
+hash = "d8f8b6221b17b618a381875f518c0a79fc755d7abc75892705e5e9633d7d88cf"
 metafile = true
 
 [[files]]
 file = "mods/mcsr-set-spawn-1-15-2.pw.toml"
-hash = "b761ac308ce8ec1b7f712903bc8635c950fae9fe0e954c440f656db7e6f83e11"
+hash = "4de5e42fe7adf7cc22225995512df4fb61a33b53929d2ddde45876090ef98cc3"
 metafile = true
 
 [[files]]

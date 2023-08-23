@@ -1,0 +1,2 @@
+gamma:5.0
+autoJump:false
