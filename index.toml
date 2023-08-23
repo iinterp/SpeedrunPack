@@ -46,11 +46,6 @@ hash = "64fc796bae08e7e4a5813043581cedc1aea1594defd2d6c4a2dc9e17ff6c37b7"
 metafile = true
 
 [[files]]
-file = "mods/sleepbackground.pw.toml"
-hash = "04cda588271851e7337299cb6e2bad7695d23f325359325ce415a047e61a95df"
-metafile = true
-
-[[files]]
 file = "mods/speedrunigt.pw.toml"
 hash = "78f72b65395c3561d1b78d7c0cbd96ad25fe2320fb75b9a63dfa316ced99b0d3"
 metafile = true
