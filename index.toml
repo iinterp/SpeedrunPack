@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/sodium-options.json"
+hash = "a4a1da46a4111a9154fc4aa162ac6c4a4d7c3d83f0d84041275502ccd5c39dab"
+
+[[files]]
 file = "mods/atum.pw.toml"
 hash = "3ac83231e2b2b991d3a7064a69f78a6d1349bc06f22180cf009494ec9e7d1d26"
 metafile = true
@@ -41,6 +45,11 @@ hash = "949552a93d2f05fbcc533846414a1cdd2bb180a14308f11b081153a8346ffbb8"
 metafile = true
 
 [[files]]
+file = "mods/mcsr-antigone-1-16-1.pw.toml"
+hash = "004ae621d95e4a2f892abc7b5a0d9429a8aa678d392856f371a8179d1734b56b"
+metafile = true
+
+[[files]]
 file = "mods/mcsr-antiresourcereload-1-16-1.pw.toml"
 hash = "60c89358c4838d48de21ef14edae535427f06f389f4c37c674f91cd206db7bc8"
 metafile = true
@@ -48,11 +57,6 @@ metafile = true
 [[files]]
 file = "mods/mcsr-chunkcacher-1-16-1-17-1.pw.toml"
 hash = "be82272a26316f663597098586530a6e85d60feb297972df9c9a2ac03c70da04"
-metafile = true
-
-[[files]]
-file = "mods/mcsr-serversiderng-1-16-1.pw.toml"
-hash = "da2ee92b0f5ea16bbbf88609203b148d619a029793a56f71c3b4d05fb5cf2ecc"
 metafile = true
 
 [[files]]
