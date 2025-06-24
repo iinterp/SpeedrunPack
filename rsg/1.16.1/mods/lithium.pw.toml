@@ -1,14 +1,13 @@
 name = "Lithium"
-filename = "lithium-1.16.1-backport-fabric-0.6.6.jar"
+filename = "lithium-1.0+backport-0.6.7+1.16.1.jar"
 side = "both"
-version = "0.6.6"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/lithium/1.16.1/lithium-1.16.1-backport-fabric-0.6.6.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/29125f649e03bc5cf2fff86e252b83b29ee832fe/legal-mods/lithium/1.16.1/lithium-1.0+backport-0.6.7+1.16.1.jar"
 hash-format = "sha512"
-hash = "0fff3436136f3489a2aa926c615c736a626a40dbf28811ca81a47a53ee7baa1f6e70e153c8b78cd76ec10a468e35efdadcf68a0f231f8e2473cc549861bc3943"
+hash = "53f67abf325558d760d7d2f44ec8bbd14dc7180a6e137f1aed54b37aeb0d3b574b59f75970b5765d30e60df48aed3e27d632759452b1e66c5a123776f858ed31"
 
 [option]
 optional = false
-default = true
 description = "Lithium is a free and open-source optimization mod for Minecraft which makes a wide range of performance improvements to the game."
+default = true

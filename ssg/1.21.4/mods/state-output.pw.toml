@@ -1,0 +1,14 @@
+name = "State Output"
+filename = "state-output-1.2.0+1.18.2-1.21.jar"
+side = "both"
+version = "1.2.0+1.18.2-1.21"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/29125f649e03bc5cf2fff86e252b83b29ee832fe/legal-mods/state-output/1.18.2-1.21.4/state-output-1.2.0+1.18.2-1.21.jar"
+hash-format = "sha512"
+hash = "3d57ca221452162d56717f8cf6115d9b14045e0fc275eb6f8bb8a629a57d882737d83a3ec86cb92d1485a642fe38c818fe9f9ec1dfb3e0de9c68cadfa02ee7f5"
+
+[option]
+optional = false
+default = true
+description = "World Preview state file functionality but without World Preview"

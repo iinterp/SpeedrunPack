@@ -1,14 +1,13 @@
 name = "Voyager"
 filename = "voyager-1.0.1.jar"
 side = "both"
-version = "1.0.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/voyager/1.14-1.16.5/voyager-1.0.1.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/29125f649e03bc5cf2fff86e252b83b29ee832fe/legal-mods/voyager/1.14-1.16.5/voyager-1.0.1.jar"
 hash-format = "sha512"
 hash = "7af0abc76408cf67dbc3d59a153dad16904cc93a9078aaa8b68e8ee2baf49ea40587e6ec0af0152b0b5195254d28445368e7ec2f9344676a5b3b8e85db3b75f0"
 
 [option]
 optional = false
-default = true
 description = "Take a voyage into modern java versions. (Fixes (MC-149777), a rare ConcurrentModificationException in StructureManager, when using a Java Runtime Environment of 11 or above)"
+default = true

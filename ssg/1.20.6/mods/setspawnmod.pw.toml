@@ -1,12 +1,12 @@
 name = "Set Spawn"
-filename = "setspawnmod-4.0.0+1.19-1.21.jar"
+filename = "setspawnmod-4.1.0+1.19-1.21.4.jar"
 side = "both"
-version = "4.0.0+1.19-1.21"
+version = "4.1.0+1.19-1.21.4"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/setspawnmod/1.19-1.21/setspawnmod-4.0.0+1.19-1.21.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/29125f649e03bc5cf2fff86e252b83b29ee832fe/legal-mods/setspawnmod/1.19-1.21.4/setspawnmod-4.1.0+1.19-1.21.4.jar"
 hash-format = "sha512"
-hash = "ded7c40ff600b235c82960d767a80ca24d11e81b9f494aa0d8cee25ed1edc11ec4b4572642f4624be654bd9bf426b21ead2a74a27d4d5bde79cbf19450ddd76a"
+hash = "98f0dba139e58c7a5acdf98e8afd648e8afb9a1e85bd8d7f5f50fbfc15d1b6538f80338a4c583f1ed631284494b1376526f73e76088a5553f86d0a0e44594148"
 
 [option]
 optional = false

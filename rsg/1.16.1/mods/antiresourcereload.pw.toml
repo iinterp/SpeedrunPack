@@ -1,12 +1,12 @@
 name = "AntiResourceReload"
-filename = "antiresourcereload-5.1.0+1.16.1.jar"
+filename = "antiresourcereload-5.2.0+1.16.1.jar"
 side = "both"
-version = "5.1.0+1.16.1"
+version = "5.2.0+1.16.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/antiresourcereload/1.16.1/antiresourcereload-5.1.0+1.16.1.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/9a8e3e7d79e6e0f8b7ae5bb4003e3309718689dd/legal-mods/antiresourcereload/1.16.1/antiresourcereload-5.2.0+1.16.1.jar"
 hash-format = "sha512"
-hash = "7077c1ef45bc60194e3551a9140788fefd012431ca6c8b6c6bf370d2b7aae28008ab45fbdecba122a6c8f4056806039a4847279fba10ffc1eab40d7a345e5468"
+hash = "68d9561b4e77563c7ccb55bcb0bea51ef56c7452169cf57d529ac339c08eaef0536793f2a08b3600dc5be3d613afa72182de55e1f915adf221a5d1eed31f7bae"
 
 [option]
 optional = false

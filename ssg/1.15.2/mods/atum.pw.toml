@@ -1,12 +1,12 @@
 name = "Atum"
-filename = "atum-1.3.0+1.15.2.jar"
+filename = "atum-1.3.1+1.15.2.jar"
 side = "both"
-version = "1.3.0+1.15.2"
+version = "1.3.1+1.15.2"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/atum/1.15.2/atum-1.3.0+1.15.2.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/0150b198bba5d7d56e5460e940a3dd0f99fdef82/legal-mods/atum/1.15.2/atum-1.3.1+1.15.2.jar"
 hash-format = "sha512"
-hash = "e3391b362f0053a36576ad284e3f3e6d765e05752ef904fa4bfafa0fa2526ad3cf89e96a5e65b40ae34865383a11e78cf052d0390a87448cb668174d766727fe"
+hash = "792ab7ad55010ac60bb39c720ac5ded759d2e316ac401c6ca89b97d6707e27fdf8a6df24a97273b79272b0cdca643f8aee8a91d82128982838f1e00f39af2b60"
 
 [option]
 optional = false

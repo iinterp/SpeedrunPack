@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "7e1a195c23a722e4902de86b1dccbded8e4e075a8e1af33a7e21343788b8bda2"
+hash = "d17ba187a6ecebf394b8b085fbacb72c829663dbf50cc8f625b156248b36c33c"
 metafile = true
 
 [[files]]
@@ -72,5 +72,5 @@ metafile = true
 
 [[files]]
 file = "mods/z-buffer-fog.pw.toml"
-hash = "e4417057fef55c2a618e953781a71738c7790915c844b3095ab0a379010812ed"
+hash = "5c0ad9116590047a778e646d7d0b4e8874db68f786888ae9774eca22515d6b3c"
 metafile = true

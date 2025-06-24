@@ -1,12 +1,12 @@
 name = "ZBufferFog"
-filename = "z-buffer-fog-1.4.jar"
+filename = "z-buffer-fog-1.4.1.jar"
 side = "both"
-version = "1.4"
+version = "1.4.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/z-buffer-fog/1.3-1.14.4/z-buffer-fog-1.4.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/0150b198bba5d7d56e5460e940a3dd0f99fdef82/legal-mods/z-buffer-fog/1.3-1.14.4/z-buffer-fog-1.4.1.jar"
 hash-format = "sha512"
-hash = "41be9d118360b7ae725c8c5efc4a1d6bd11fd011680fb484881fa4ccf908b1bb2b938923302155eee045d96ed1078f5464ac482648c6a081527e6005e877784e"
+hash = "ae486d908395774a7d7d050cb734fd8b57a2a65d20e4c1835136f33c862fd9236adae962b865710d3f283114757fc53d6a0474985b1ba114f8f281ed81fdb24c"
 
 [option]
 optional = false

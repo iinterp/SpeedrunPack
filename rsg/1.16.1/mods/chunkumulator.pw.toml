@@ -1,12 +1,12 @@
 name = "Chunkumulator"
-filename = "chunkumulator-1.0.3+MC1.16.1.jar"
+filename = "chunkumulator-1.1.1+MC1.16.1.jar"
 side = "both"
-version = "1.0.3+MC1.16.1"
+version = "1.1.1+MC1.16.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/chunkumulator/1.16.1/chunkumulator-1.0.3+MC1.16.1.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/120d501b728aba0e2008ed4498b0cd8672e9fabf/legal-mods/chunkumulator/1.16-1.16.1/chunkumulator-1.1.1+MC1.16.1.jar"
 hash-format = "sha512"
-hash = "ea7ad85a2fcdb5fe34a2659fabe35e8dc8e21d9c9af055c3b93c19da208b69d67a842c44ea9e46cc974fb63a43449799a8fa2ee1acac4314604cd0ddc73b86f3"
+hash = "0e04c81b2b7bdc6fc664fb3a4dc99475a1563827f221928115e15b1b0164ed49cdd099bcc5943ce6b420886f3b51e639abcebd4fbddba8f3973e546312901c1f"
 
 [option]
 optional = false

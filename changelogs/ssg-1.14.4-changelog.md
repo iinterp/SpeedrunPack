@@ -1,20 +1,7 @@
-- Added **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)** 4.0.2+1.14.4
-- Added **[Atum](https://github.com/KingContaria/atum-rewrite)** 1.3.0+1.14.4
-- Added **[Chunkcacher](https://github.com/Minecraft-Java-Edition-Speedrunning/chunkcacher)** 2.0.0
-- Added **[Extra Options](https://github.com/tildejustin/extra-options)** 2.0.1+1.14-1.15.2-20w14inf
-- Added **[FastReset](https://github.com/KingContaria/FastReset)** 1.0.0
-- Added **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)** 1.2.0
-- Added **[LazyDFU](https://github.com/astei/lazydfu)** 0.1.2
-- Added **[Set Spawn](https://github.com/Minecraft-Java-Edition-Speedrunning/set-spawn)** 4.1.0+1.14-1.18.2
-- Added **[SleepBackground](https://github.com/RedLime/SleepBackground)** 3.9.1-1.14.x
-- Added **[SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT)** 14.2+1.14.4
-- Added **[StandardSettings](https://github.com/KingContaria/StandardSettings)** 1.2.3.1+1.14.4
-- Added **[Starlight](https://github.com/PaperMC/Starlight)** 1.0.0
-- Added **[State Output](https://github.com/tildejustin/state-output)** 1.2.0+1.14-1.15.2
-- Added **[Voyager](https://github.com/tildejustin/voyager)** 1.0.1
-- Added **[ZBufferFog](https://github.com/RedLime/LegacyPlanarFog)** 1.4
+- Updated **[Atum](https://github.com/KingContaria/atum-rewrite)** [1.3.0+1.14.4 -> 1.3.1+1.14.4]
+- Updated **[ZBufferFog](https://github.com/RedLime/LegacyPlanarFog)** [1.4 -> 1.4.1]
 
-# Mod List
+### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
 - **[Atum](https://github.com/KingContaria/atum-rewrite)**
 - **[Chunkcacher](https://github.com/Minecraft-Java-Edition-Speedrunning/chunkcacher)**

@@ -1,12 +1,12 @@
 name = "SpeedRunIGT"
-filename = "SpeedRunIGT-15.1+1.16.1.jar"
+filename = "SpeedRunIGT-16.0+1.16.1.jar"
 side = "both"
-version = "15.1+1.16.1"
+version = "16.0+1.16.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/speedrunigt/1.16.1/SpeedRunIGT-15.1+1.16.1.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/9a8e3e7d79e6e0f8b7ae5bb4003e3309718689dd/legal-mods/speedrunigt/1.16.1/SpeedRunIGT-16.0+1.16.1.jar"
 hash-format = "sha512"
-hash = "886dd0a600bef47849aac71f4e96b0e5badc9076a59224f2c887318202c67347aa65631e0461d896526f29aa22cce36f71b7e6dc72c872771b892aeb61667326"
+hash = "4b87dac0ca08c3594d8a4e55f127a07c5df0f4d8c44200e15858580f5d57a296e9456b01c0fd39c313f4b49db1fcead823b91d101fbadc7a6574fc0f31f8398a"
 
 [option]
 optional = false

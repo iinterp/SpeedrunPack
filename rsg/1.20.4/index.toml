@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "88576df44f0b8b3c968f39e03572b33d3dc8a726fc2c589ad693b539e590916b"
+hash = "45abe619362f9b20ebec599bf1d463488b23b9c43cccda0e169b636b2529cdf1"
 metafile = true
 
 [[files]]
@@ -37,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/planifolia.pw.toml"
-hash = "340b64cb6740e872ac6251cfe861ed87cf12596e592bef72bf90e02d02130377"
+hash = "1a27fe495b6768f58953d3bfc82434be17449cfe875fa5fcb18fb57ee9e17928"
 metafile = true
 
 [[files]]
 file = "mods/sleepbackground.pw.toml"
-hash = "fbb75a1d455751be6f4abdbcb85c85ca774c1a8e21eccd62af9f738de77f313a"
+hash = "c2a5d95b93c23099a6fd3e4db724b238d76707d5628b81834f40f5cb4bfe1e4c"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/standardsettings.pw.toml"
-hash = "ee17e69ed815b9cd148086cbea26cd08fc210f439c0bb90ec28268dafbcd6692"
+hash = "89d513f85304ec15e18a2347a5fdc0d89d27ebef997236f61dbd06426cdbbe36"
 metafile = true
 
 [[files]]
@@ -67,5 +67,5 @@ metafile = true
 
 [[files]]
 file = "mods/state-output.pw.toml"
-hash = "5365bb6342e7ed2ebab2fd10fcb5f6042827f374c3cd6684a8d8b8025d653463"
+hash = "ed292916a47446d819cb1092b00cf6ff87fdcb062b70e8ba0d9cd8810d8c7bc9"
 metafile = true

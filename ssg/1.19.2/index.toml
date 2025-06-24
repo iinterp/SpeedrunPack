@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "b1d9a5f1b2842ffcd4771752f753d385673c76178f12dd21d11a1f1846a725dd"
+hash = "6269ab2316365eb3ed7520daf2ac4ab98738ec6318dc48ead647e20dc26d3dbb"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/planifolia.pw.toml"
-hash = "340b64cb6740e872ac6251cfe861ed87cf12596e592bef72bf90e02d02130377"
+hash = "1a27fe495b6768f58953d3bfc82434be17449cfe875fa5fcb18fb57ee9e17928"
 metafile = true
 
 [[files]]
 file = "mods/setspawnmod.pw.toml"
-hash = "a3f047991545f1f283ce1607a43ea634ede33792c8cd57fd17ccf637b81504c0"
+hash = "15e32ccea5b7cfb60c928c1a007444b3b4bb810adb80bb8877c51cc201baaaa5"
 metafile = true
 
 [[files]]

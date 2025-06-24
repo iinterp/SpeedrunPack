@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "d21577028c5edfac263adb0cfef38f895b6f54dfe87cbe0b30531e53fe75e8cf"
+hash = "cd2289d2b1afa9fa74b134442e53da5fdcb2309bc0bb21ff09d8f3af4eeab719"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunkumulator.pw.toml"
-hash = "a773e25adf97a446fff6ffc46aea28cbeb4915d79fd83296fb128598b5f2320b"
+hash = "f80f8a241ad6d3964aed32b6016600836f80c7898ce251494a7696895477dc78"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/planifolia.pw.toml"
-hash = "5db0073741c2b6749e7236eb4dd0fea5e7da9c9bb11e2804ca14729cb79de920"
+hash = "b41fbdcf6b2b8844fc43fc71977c498ab8637148f6b4105cfd758b6726ac3214"
 metafile = true
 
 [[files]]

@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "a26040f735756275ec43c89fe55498f14d9c234133a4aa5584c92692535725c4"
+hash = "b233266793c3a8e3a24658f45d427e344f4dae7834dd3bd315b9daa85168b06f"
 metafile = true
 
 [[files]]
 file = "mods/chunkumulator.pw.toml"
-hash = "352fecdbc46fe3cdc85e73dac98e0c46799e1ea1ba9054736ebcc8887fdf9979"
+hash = "9411b209ba775edc1d83d2d2c0c86954530ce5205d0ae37ad16f22bb1de69492"
 metafile = true
 
 [[files]]

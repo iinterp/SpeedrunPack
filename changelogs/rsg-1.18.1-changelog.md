@@ -1,28 +1,15 @@
-- Added **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)** 4.0.1+1.17.1-1.18.1
-- Added **[Atum](https://github.com/KingContaria/atum-rewrite)** 1.3.0+1.18.1
-- Added **[BiomeThreadLocalFix](https://github.com/RedLime/BiomeThreadLocalFix)** 1.4
-- Added **[FastReset](https://github.com/KingContaria/FastReset)** 1.4.2+1.17-1.18.1
-- Added **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)** 1.2.0
-- Added **[Krypton](https://github.com/astei/krypton)** 0.1.9
-- Added **[LazyDFU](https://github.com/astei/lazydfu)** 0.1.2
-- Added **[Lithium](https://github.com/CaffeineMC/lithium-fabric)** 0.7.8
-- Added **[Planifolia](https://github.com/tildejustin/planifolia)** 1.1.1+1.18.x
-- Added **[SleepBackground](https://github.com/RedLime/SleepBackground)** 3.9.1-1.16.x-1.18.1
-- Added **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** 0.4.0-alpha6+build.14
-- Added **[SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT)** 14.2+1.18.1
-- Added **[StandardSettings](https://github.com/KingContaria/StandardSettings)** 1.2.3+1.18.x
-- Added **[Starlight](https://github.com/PaperMC/Starlight)** 1.0.0+fabric.d0a3220
-- Added **[State Output](https://github.com/tildejustin/state-output)** 1.2.0+1.16-1.18.1
+- Added **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)** 1.1.1+MC1.18.2
 
-# Mod List
+### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
 - **[Atum](https://github.com/KingContaria/atum-rewrite)**
 - **[BiomeThreadLocalFix](https://github.com/RedLime/BiomeThreadLocalFix)**
+- **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)**
 - **[FastReset](https://github.com/KingContaria/FastReset)**
 - **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)**
 - **[Krypton](https://github.com/astei/krypton)**
 - **[LazyDFU](https://github.com/astei/lazydfu)**
-- **[Lithium](https://github.com/CaffeineMC/lithium-fabric)**
+- **[Lithium](https://github.com/KingContaria/lithium-mcsr)**
 - **[Planifolia](https://github.com/tildejustin/planifolia)**
 - **[SleepBackground](https://github.com/RedLime/SleepBackground)**
 - **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)**

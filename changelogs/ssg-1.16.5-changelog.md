@@ -1,24 +1,6 @@
-- Added **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)** 4.0.1+1.16.5
-- Added **[Atum](https://github.com/KingContaria/atum-rewrite)** 1.3.0+1.16.5
-- Added **[BiomeThreadLocalFix](https://github.com/RedLime/BiomeThreadLocalFix)** 1.4
-- Added **[Chunkcacher](https://github.com/Minecraft-Java-Edition-Speedrunning/chunkcacher)** 2.0.0
-- Added **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)** 1.0.3+MC1.16.5
-- Added **[FabricProxy Lite](https://github.com/OKTW-Network/FabricProxy-Lite)** 1.1.3
-- Added **[FastReset](https://github.com/KingContaria/FastReset)** 1.4.2+1.16.5
-- Added **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)** 1.2.0
-- Added **[Krypton](https://github.com/astei/krypton)** 0.1.2
-- Added **[LazyDFU](https://github.com/astei/lazydfu)** 0.1.2
-- Added **[Lithium](https://github.com/CaffeineMC/lithium-fabric)** 0.6.6
-- Added **[Set Spawn](https://github.com/Minecraft-Java-Edition-Speedrunning/set-spawn)** 4.1.0+1.14-1.18.2
-- Added **[SleepBackground](https://github.com/RedLime/SleepBackground)** 3.9.1-1.16.x-1.18.1
-- Added **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** 2.2.1+1.16.5
-- Added **[SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT)** 14.2+1.16.5
-- Added **[StandardSettings](https://github.com/KingContaria/StandardSettings)** 1.2.3.1+1.16.5
-- Added **[Starlight](https://github.com/PaperMC/Starlight)** v7
-- Added **[State Output](https://github.com/tildejustin/state-output)** 1.2.0+1.16-1.18.1
-- Added **[Voyager](https://github.com/tildejustin/voyager)** 1.0.1
+- Updated **[Atum](https://github.com/KingContaria/atum-rewrite)** [1.3.0+1.16.5 -> 1.3.1+1.16.5]
 
-# Mod List
+### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
 - **[Atum](https://github.com/KingContaria/atum-rewrite)**
 - **[BiomeThreadLocalFix](https://github.com/RedLime/BiomeThreadLocalFix)**
@@ -29,7 +11,7 @@
 - **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)**
 - **[Krypton](https://github.com/astei/krypton)**
 - **[LazyDFU](https://github.com/astei/lazydfu)**
-- **[Lithium](https://github.com/CaffeineMC/lithium-fabric)**
+- **[Lithium](https://github.com/KingContaria/lithium-mcsr)**
 - **[Set Spawn](https://github.com/Minecraft-Java-Edition-Speedrunning/set-spawn)**
 - **[SleepBackground](https://github.com/RedLime/SleepBackground)**
 - **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)**

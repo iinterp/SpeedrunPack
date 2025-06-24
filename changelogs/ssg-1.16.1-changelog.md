@@ -1,7 +1,8 @@
-- Updated **[Atum](https://github.com/KingContaria/atum-rewrite)** [2.2+1.16.1 -> 2.2.1+1.16.1]
-- Updated **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** [1.0.2+1.16.1 -> 1.1+1.16.1]
+- Updated **[SeedQueue](https://github.com/KingContaria/seedqueue)** [1.3.1 -> 1.4]
+- Updated **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** [2.3.1+1.16.1 -> 2.4.0+1.16.1]
+- Updated **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** [1.2+1.16.1 -> 1.2.1+1.16.1]
 
-# Mod List
+### Mod List
 - **[antigone](https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-antigone-1.16.1)**
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
 - **[Atum](https://github.com/KingContaria/atum-rewrite)**
@@ -12,7 +13,7 @@
 - **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)**
 - **[Krypton](https://github.com/astei/krypton)**
 - **[LazyDFU](https://github.com/astei/lazydfu)**
-- **[Lithium](https://github.com/CaffeineMC/lithium-fabric)**
+- **[Lithium](https://github.com/KingContaria/lithium-mcsr)**
 - **[SeedQueue](https://github.com/KingContaria/seedqueue)**
 - **[Set Spawn](https://github.com/Minecraft-Java-Edition-Speedrunning/set-spawn)**
 - **[SleepBackground](https://github.com/RedLime/SleepBackground)**

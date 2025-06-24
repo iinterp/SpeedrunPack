@@ -1,0 +1,14 @@
+name = "SleepBackground"
+filename = "sleepbackground-3.9.1-1.21.3.jar"
+side = "both"
+version = "3.9.1-1.21.3"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/29125f649e03bc5cf2fff86e252b83b29ee832fe/legal-mods/sleepbackground/1.21.2-1.21.4/sleepbackground-3.9.1-1.21.3.jar"
+hash-format = "sha512"
+hash = "e6f509efd595c624cb79ca2d057a2774f29c6050c7b44bfa109518b46e552b256c5378aebaf597bfb29ada7986d82f3a4d2dacf87076808c025477245f94f8f0"
+
+[option]
+optional = false
+default = true
+description = "My instances are looks want to sleep"

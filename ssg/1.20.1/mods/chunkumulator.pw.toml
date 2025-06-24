@@ -1,0 +1,14 @@
+name = "Chunkumulator"
+filename = "chunkumulator-1.0.3+MC1.20.1.jar"
+side = "both"
+version = "1.0.3+MC1.20.1"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/0150b198bba5d7d56e5460e940a3dd0f99fdef82/legal-mods/chunkumulator/1.20.1/chunkumulator-1.0.3+MC1.20.1.jar"
+hash-format = "sha512"
+hash = "7b889f2f9ad9fc448fea4a53ea962b0dd76919eccebf24c79d3eaf6132b9f1d9e11876d37dceb89782126a7be6addc8802f8c54a9324a3d60661d3b62c152e84"
+
+[option]
+optional = false
+default = true
+description = "This mod accumulates a list of chunks it needs to send to each player and sends them in chunks of chunks!"

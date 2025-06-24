@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "f5c5f439134896bcf85f377bc1854b9a404c037996fd7580173b1ff2e0bc8df5"
+hash = "83f96431d71ef920df8a71fe7706d2ff4da120a2bdec4936ab87657802311992"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/planifolia.pw.toml"
-hash = "420ef154c7c20ec3e77acc7d06ee1ec89f56461b1d41b1420aaa140056f3df21"
+hash = "b41fbdcf6b2b8844fc43fc71977c498ab8637148f6b4105cfd758b6726ac3214"
 metafile = true
 
 [[files]]

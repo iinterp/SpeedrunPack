@@ -1,0 +1,26 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/atum.pw.toml"
+hash = "90b9dd93e094cd441b8df20d98fc4aada3cbed707d1506a16f528b32ed88f61d"
+metafile = true
+
+[[files]]
+file = "mods/forceport.pw.toml"
+hash = "c92202f81e861f3a5b230f8af2d1156df2e45a6b5ad424d3c5240cbc0d0cfc87"
+metafile = true
+
+[[files]]
+file = "mods/planifolia.pw.toml"
+hash = "790b5624bc28068b02b0b04025097aab4e7ace8f8fe7466b8515ee682f5b625e"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "6b79a18e8d78494bb34e189fcef63a9efed7240540501e92a6d7cca6cf14a1a8"
+metafile = true
+
+[[files]]
+file = "mods/standardsettings.pw.toml"
+hash = "0141f9ba94c8fd65b7fe02908221d1385c874dd28ecf0ee37daf3cb402ba799e"
+metafile = true

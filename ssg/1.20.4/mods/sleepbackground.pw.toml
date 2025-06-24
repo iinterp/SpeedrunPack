@@ -1,12 +1,12 @@
 name = "SleepBackground"
-filename = "sleepbackground-3.9.1-1.20-1.21.jar"
+filename = "sleepbackground-3.9.2-1.20-1.21.1.jar"
 side = "both"
-version = "3.9.1-1.20-1.21"
+version = "3.9.2-1.20-1.21.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/sleepbackground/1.20-1.21/sleepbackground-3.9.1-1.20-1.21.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/0150b198bba5d7d56e5460e940a3dd0f99fdef82/legal-mods/sleepbackground/1.20-1.21.1/sleepbackground-3.9.2-1.20-1.21.1.jar"
 hash-format = "sha512"
-hash = "bc565044a4b044c57fefbd1fd78c2e1e309153c490d04720d19a9616b3bb5543266ae58bb92f717f54367ceef713e435e675459a915748ace16a2e604220bb4a"
+hash = "cd6996cfbf9ceb40f72e730280e9bc7ec5ac6e8c673a3a5581bbf4dc85f8e0fa6f808bc78e68c0f517f9b8dc1e55d80244952540537ab499b4de81bde035bd52"
 
 [option]
 optional = false

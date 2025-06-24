@@ -1,23 +1,6 @@
-- Added **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)** 4.0.3+1.15.2
-- Added **[Atum](https://github.com/KingContaria/atum-rewrite)** 1.3.0+1.15.2
-- Added **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)** 1.0.3+MC1.15.2
-- Added **[Extra Options](https://github.com/tildejustin/extra-options)** 2.0.1+1.14-1.15.2-20w14inf
-- Added **[FastReset](https://github.com/KingContaria/FastReset)** 1.0.1
-- Added **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)** 1.2.0
-- Added **[Krypton](https://github.com/astei/krypton)** 0.1.3-SNAPSHOT+2021-02-20
-- Added **[LazyDFU](https://github.com/astei/lazydfu)** 0.1.2
-- Added **[Lazystronghold](https://github.com/Gregor0410/LazyStronghold)** 1.1.3
-- Added **[Lithium](https://github.com/CaffeineMC/lithium-fabric)** 0.4.6
-- Added **[SleepBackground](https://github.com/RedLime/SleepBackground)** 3.9-1.15.x
-- Added **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** 1.3.1+1.15.2
-- Added **[SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT)** 14.2+1.15.2
-- Added **[StandardSettings](https://github.com/KingContaria/StandardSettings)** 1.2.3.1+1.15.x
-- Added **[Starlight](https://github.com/PaperMC/Starlight)** 1.0.0+fabric.f0648b6
-- Added **[State Output](https://github.com/tildejustin/state-output)** 1.2.0+1.14-1.15.2
-- Added **[Voyager](https://github.com/tildejustin/voyager)** 1.0.1
-- Added **[WorldPreview](https://github.com/KingContaria/mcsr-worldpreview-1.16.1)** 5.0.2+1.15.2
+- Updated **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)** [1.0.3+MC1.15.2 -> 1.1.1+MC1.15.2]
 
-# Mod List
+### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
 - **[Atum](https://github.com/KingContaria/atum-rewrite)**
 - **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)**
@@ -27,7 +10,7 @@
 - **[Krypton](https://github.com/astei/krypton)**
 - **[LazyDFU](https://github.com/astei/lazydfu)**
 - **[Lazystronghold](https://github.com/Gregor0410/LazyStronghold)**
-- **[Lithium](https://github.com/CaffeineMC/lithium-fabric)**
+- **[Lithium](https://github.com/KingContaria/lithium-mcsr)**
 - **[SleepBackground](https://github.com/RedLime/SleepBackground)**
 - **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)**
 - **[SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT)**

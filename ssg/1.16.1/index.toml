@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "6197c19c1d4d8dec87a5e5c3f0107f28c8dd47196861b9415c07bcfb2d6df5b8"
+hash = "8e8f2f30fab6a5cc33de2806060811216c09d54095c1a7c080c0f4d88783d665"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast_reset.pw.toml"
-hash = "a4cb1f432d850193984fbe7d6bb05cbe7ece2a28f2d80742dc265cdabce2ad77"
+hash = "c1257a8a86ab83be8e395fd3f91edb2d94c014334ad9309301b57e035238492c"
 metafile = true
 
 [[files]]
@@ -56,12 +56,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "8e58cbbcf9fdf58d2a19203fac644226e72f4e638cfa8943ae2da87436d913b5"
+hash = "a36646c9af27f3d99e43184c9a6cb103ab1904849229960633037bc1e020baec"
 metafile = true
 
 [[files]]
 file = "mods/seedqueue.pw.toml"
-hash = "aae308ca7921974e0be02935e1160e0118892acdbb7667800eb4fa9b724f7582"
+hash = "6cb0271af11f2a232bb275831f5352b4b45633abff634e6c2d8291846232c657"
 metafile = true
 
 [[files]]
@@ -76,12 +76,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "53adbfc3880cec88280129f304fe93e35405dcb1b13c2a6d7d040bfcc53360bf"
+hash = "38c3a4a939ad384e5544c591b32c7e7dab6f13c9b479f3708e424580b3c5981d"
 metafile = true
 
 [[files]]
 file = "mods/speedrunapi.pw.toml"
-hash = "010e7fdade4571dd4a7d7cb543540191d0599b24c91c70dc80bb5f3259ee4386"
+hash = "5045aa165b83d63aa2c891c5383162e712b5e6fadad4849140eac3f9ccaf5b15"
 metafile = true
 
 [[files]]

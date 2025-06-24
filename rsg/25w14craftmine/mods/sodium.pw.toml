@@ -1,0 +1,14 @@
+name = "Sodium"
+filename = "sodium-fabric-0.6.12-snapshot+mc25w14craftmine-local.jar"
+side = "both"
+version = "0.6.12-snapshot+mc25w14craftmine-local"
+
+[download]
+url = "https://github.com/tildejustin/mc_af-legal-mods/raw/22a0bb01acb84fa5987075582dd78960873db477/25w14craftmine/sodium-fabric-0.6.12-snapshot+mc25w14craftmine-local.jar"
+hash-format = "sha512"
+hash = "291602db7c6860e4f967c6d30cbec500a8a75b575e319010e9a3777f0ac77176e284ae8f99cf342f5d913d31a8597217fe15df8a553f91f8f34033423ca1b0c3"
+
+[option]
+optional = false
+default = true
+description = "Sodium is a powerful rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing many graphical issues"

@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "0624a56a73aa8ae344ecdccd2184eeb3664af21304ad10ef176f5ce0467b9ccd"
+hash = "7d2973017253e0314dc7971db9cf531e73399e62dc013a549f4c8e3d655a9a2f"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunkumulator.pw.toml"
-hash = "98ce85e0814bd63511519ea45a7b2b079b36eca30692c91341f9ce1536fff9db"
+hash = "6fd28a07956cf4a8951b80bc8c50a6ce69e74411b1152fa4aff2bb00a0d90677"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ccdd0e9f1f4c73d1a8b2acfba1ee47943f19e1597fb1ac4c909cf9c8bbf52180"
+hash = "1cb3116e6de9d50efa99d44c448218c693a2668e8ca919d5f623ed786feba763"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "4bad24e5dc969a800ce728417999849ee76401690cd65ee4924c75869d8392e3"
+hash = "71624976a3942298dc16e30aa2e6c6387c926b2e4227ceb41208ce9a2bd84d01"
 metafile = true
 
 [[files]]

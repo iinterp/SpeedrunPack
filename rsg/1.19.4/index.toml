@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "075eb83f6dcca00abf09da338b7a5876af4d959f6349fbd149ec6f874d3e5836"
+hash = "ba4dc05d31f5a39f20694db215cc325e38309e9d3341be9663bb5467cc08b073"
 metafile = true
 
 [[files]]
@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunkumulator.pw.toml"
-hash = "2a04d405890861ec4a5f7700a24435c06708c87e2325e233ee5e3fd62d890af0"
+hash = "341759782a55dea85e5a0e2233a39f2020028f3b62c32f822d0c5c900b3b839d"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/planifolia.pw.toml"
-hash = "340b64cb6740e872ac6251cfe861ed87cf12596e592bef72bf90e02d02130377"
+hash = "1a27fe495b6768f58953d3bfc82434be17449cfe875fa5fcb18fb57ee9e17928"
 metafile = true
 
 [[files]]
@@ -61,11 +61,16 @@ hash = "aa0af914bab2eea76b23eb031d6e7d0f47a0f31a707200862abdf4ec370b7c64"
 metafile = true
 
 [[files]]
+file = "mods/standardsettings.pw.toml"
+hash = "293eda8e7f453b825e59a751259a10c5549b94b1e67b0bd3e138e3bf38b0cbd3"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "f3b65c72ceb60f7c0d9783873e8f8e02e85e560f594cafbe09bbbc71f89d6739"
 metafile = true
 
 [[files]]
 file = "mods/state-output.pw.toml"
-hash = "5365bb6342e7ed2ebab2fd10fcb5f6042827f374c3cd6684a8d8b8025d653463"
+hash = "ed292916a47446d819cb1092b00cf6ff87fdcb062b70e8ba0d9cd8810d8c7bc9"
 metafile = true

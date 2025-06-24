@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/atum.pw.toml"
+hash = "24f0116eaf6c1b21cf3228d6ea292c9689ab77005b23b9d65ec5b610c19154a8"
+metafile = true
+
+[[files]]
+file = "mods/biome_threadlocal_fix.pw.toml"
+hash = "f82d533255cb034932a253d872e6692bfb720ab6f21419bc4ec32e9482d77f0d"
+metafile = true
+
+[[files]]
+file = "mods/chunkumulator.pw.toml"
+hash = "4d4933ed35184f311d9878867b51910f7c3bea0a0b0c3a0f242e2d9a51b2038d"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "b5e367f2d4baf855a9b8c94f3e0c70d552bbaa3694fde8fbf3bfb1204bfa3656"
+metafile = true
+
+[[files]]
+file = "mods/fast_reset.pw.toml"
+hash = "cc9e4209f3655d2563467a644704d2127a41efce4ad7cc7ed065fe3601d03108"
+metafile = true
+
+[[files]]
+file = "mods/forceport.pw.toml"
+hash = "a6d8728934eda8d473ffe2488ae5c114b0bc19d9cf79620d550472a279e7605f"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "624cad10d13ddae3d1bbc7debe569a941b8707708e2ec6250472a0371a8cdf88"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "5d7081ca5db6160d84e5796a8eb9ba2e6e48d8819fe8adabc1afe232c597ac8d"
+metafile = true
+
+[[files]]
+file = "mods/planifolia.pw.toml"
+hash = "1a27fe495b6768f58953d3bfc82434be17449cfe875fa5fcb18fb57ee9e17928"
+metafile = true
+
+[[files]]
+file = "mods/sleepbackground.pw.toml"
+hash = "c2a5d95b93c23099a6fd3e4db724b238d76707d5628b81834f40f5cb4bfe1e4c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a505e29070f32bbedee5b316da0f4117471ebd02aef6b18ebefcacb166ddf1b1"
+metafile = true
+
+[[files]]
+file = "mods/speedrunigt.pw.toml"
+hash = "3b7e74e7ef3c3a7909fd0f7fae5407e3e9d546cbe0825502058f3e51ab4937b2"
+metafile = true
+
+[[files]]
+file = "mods/standardsettings.pw.toml"
+hash = "89d513f85304ec15e18a2347a5fdc0d89d27ebef997236f61dbd06426cdbbe36"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "e466c817aa90210b733dd5a932f656b5796820eff56b84477faf3859f9f255c2"
+metafile = true
+
+[[files]]
+file = "mods/state-output.pw.toml"
+hash = "ed292916a47446d819cb1092b00cf6ff87fdcb062b70e8ba0d9cd8810d8c7bc9"
+metafile = true

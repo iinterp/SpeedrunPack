@@ -1,0 +1,13 @@
+name = "SpeedrunPack"
+author = "interp"
+version = "mc25w14Craftmine-v1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "aa1ea7c529981dd15fbc1c1407dfce116619a43a3f73be5e7d7b6638c0fb2fec"
+
+[versions]
+fabric = "0.16.12"
+minecraft = "25w14craftmine"

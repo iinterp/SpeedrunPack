@@ -1,0 +1,14 @@
+name = "Lithium"
+filename = "lithium-fabric-0.16.3+mc1.21.5.jar"
+side = "both"
+version = "0.16.3+mc1.21.5"
+
+[download]
+url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xcELvp6R/lithium-fabric-0.16.3%2Bmc1.21.5.jar"
+hash-format = "sha512"
+hash = "42d1538caa913bb35e76208efc14bce3e89fb01e8dbd7cf2a3b8576377d83d2d2f63a207cb7b6f081e20b00e5edff8d01e94a52d89e8c9ce9e3dfecc3fac4d78"
+
+[option]
+optional = false
+default = true
+description = "Lithium is a free and open-source optimization mod for Minecraft which makes a wide range of performance improvements to the game."

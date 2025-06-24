@@ -1,12 +1,12 @@
 name = "Starlight"
-filename = "starlight-1.16.1-v7.jar"
+filename = "starlight-1.2.1+1.16.x-backport-1.1.3.jar"
 side = "both"
-version = "v7"
+version = "1.2.1+1.16.x-backport-1.1.3"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/starlight/1.16-1.16.5/starlight-1.16.1-v7.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/bf55f0146332dfaffa23a67583ddc532638ea6b3/legal-mods/starlight/1.16-1.16.5/starlight-1.2.1+1.16.x-backport-1.1.3.jar"
 hash-format = "sha512"
-hash = "ad49e584f8615869b3a82de532ed75d5190e1116a66c37114392e108d1c038c13e0c699b913d5f29f82a2682f292c8de274944ecfe2eae73de5bd04e404b648a"
+hash = "8084a89faf81a85cc1814a0bd6d9b7077ba8bec0a633f7ce1a8b7d3177e2b2a6274ead7097153f87e40a6d5aeafb5132c28be5adfd8861ab84b615a12397705e"
 
 [option]
 optional = false

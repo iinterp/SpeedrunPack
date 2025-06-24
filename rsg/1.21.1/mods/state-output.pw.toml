@@ -1,12 +1,12 @@
 name = "State Output"
-filename = "state-output-1.2.0+1.18.2-1.21.jar"
+filename = "state-output-1.2.2+1.18.2-1.21.6.jar"
 side = "both"
-version = "1.2.0+1.18.2-1.21"
+version = "1.2.2+1.18.2-1.21.6"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/1546cdf866bb0fea831d1d04d59172e3b9159f3e/legal-mods/state-output/1.18.2-1.21.1/state-output-1.2.0+1.18.2-1.21.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/9a8e3e7d79e6e0f8b7ae5bb4003e3309718689dd/legal-mods/state-output/1.18.2-1.21.6/state-output-1.2.2+1.18.2-1.21.6.jar"
 hash-format = "sha512"
-hash = "3d57ca221452162d56717f8cf6115d9b14045e0fc275eb6f8bb8a629a57d882737d83a3ec86cb92d1485a642fe38c818fe9f9ec1dfb3e0de9c68cadfa02ee7f5"
+hash = "71aed72820149b3c245daa8f1684a9103013ed5ee3a484a22b3fdd8767317f688d74535d2032bbbdf452121da96a219e21c805c01d0c3e35561c3f328fb6f35b"
 
 [option]
 optional = false

@@ -1,0 +1,14 @@
+name = "FastReset"
+filename = "fast-reset-1.4.3+1.21.6.jar"
+side = "both"
+version = "1.4.3+1.21.6"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/bf55f0146332dfaffa23a67583ddc532638ea6b3/legal-mods/fast_reset/1.21.6/fast-reset-1.4.3+1.21.6.jar"
+hash-format = "sha512"
+hash = "fefec4de306e5091fa9bedab5605b4f3e5952a3f4171c64d4cf6d0733ef9dc3b34cadb9649c65998e7d207fcfae406487802a8e72239087c2c5cfaafc26bcad2"
+
+[option]
+optional = false
+default = true
+description = "Skips saving worlds to reset faster."
