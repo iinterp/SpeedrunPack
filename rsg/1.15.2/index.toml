@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazystronghold.pw.toml"
-hash = "fdde3273f44f51be93ae08dbe93df7cf61f067e899c1a24753adcf2f46ab9330"
+hash = "a77a408788a4bf71ae062de731738123ef89b3bb862c2524a735d92da229283c"
 metafile = true
 
 [[files]]

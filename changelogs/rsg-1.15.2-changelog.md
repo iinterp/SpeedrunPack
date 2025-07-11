@@ -1,4 +1,4 @@
-- Updated **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)** [1.0.3+MC1.15.2 -> 1.1.1+MC1.15.2]
+- Updated **[Lazystronghold](https://github.com/Gregor0410/LazyStronghold)** [1.1.3 -> 1.1.4]
 
 ### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**

@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-options.pw.toml"
-hash = "9590939389034a0211cecdf4696366e15ca490915165d8fe305028b0586130d1"
+hash = "1fa0fc693e3ec1aabebd1f0a577528f137a4e5b5dcb25759cf532f6801c039f5"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazystronghold.pw.toml"
-hash = "892d0940a552d97d8c11f4fce1552579df617e347c1af4c4698efe0087552776"
+hash = "8d2deb782b104ef7481e2fd06ff5cc06108ed1367d62d8bd13baff63b4877d4b"
 metafile = true
 
 [[files]]

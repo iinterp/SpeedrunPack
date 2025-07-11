@@ -1,12 +1,12 @@
 name = "Lazystronghold"
-filename = "lazystronghold-1.1.3+1.15.2.jar"
+filename = "lazystronghold-1.1.4+1.15.2.jar"
 side = "both"
-version = "1.1.3"
+version = "1.1.4"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/lazystronghold/1.15.2/lazystronghold-1.1.3+1.15.2.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/f5ca2e1d9aeb7832cab096cd1bd896e4481dede0/legal-mods/lazystronghold/1.15.2/lazystronghold-1.1.4+1.15.2.jar"
 hash-format = "sha512"
-hash = "2e8b0a1abcd36998744b0ffd6730ca42e37a289b7fd6a3b4751be7f1b3f182377c06d226541dc40f4b90de0d8718bce5ebc24cabb149d500de7d61beb7705f3c"
+hash = "5dbcc33c8a7636fbd3d45b61879e7adfbb777f0f040f5d94c30989e9300f880b9cc99c8048fef29cd403047936645b0efea136a817d42469d3d38cabd8729ecc"
 
 [option]
 optional = false

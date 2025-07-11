@@ -1,12 +1,12 @@
 name = "Extra Options"
-filename = "extra-options-2.2.0+1.16.1.jar"
+filename = "extra-options-2.2.1+1.16.1.jar"
 side = "both"
-version = "2.2.0+1.16.1"
+version = "2.2.1+1.16.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/9a8e3e7d79e6e0f8b7ae5bb4003e3309718689dd/legal-mods/extra-options/1.16-1.16.1/extra-options-2.2.0+1.16.1.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/f5ca2e1d9aeb7832cab096cd1bd896e4481dede0/legal-mods/extra-options/1.16-1.16.1/extra-options-2.2.1+1.16.1.jar"
 hash-format = "sha512"
-hash = "4bfccd8132f17f90edce521923408b12f6e43e6d94d547a4a440509a58a3274c154fdf910cfa89f3416a8288dff1eaa7239b02cce078a33b329e2a326a24edbf"
+hash = "d2a997eb2a19c09fb2d548df4f7de85020079124fe64a1a5b5393419df3a070d76faee11f6df364310145baeccbbc99c9237bf8264bf1419f98482a82c2dc544"
 
 [option]
 optional = false

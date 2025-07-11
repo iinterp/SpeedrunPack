@@ -1,0 +1,14 @@
+name = "SpeedRunIGT"
+filename = "SpeedRunIGT-14.2+1.21.7.jar"
+side = "both"
+version = "14.2+1.21.7"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/f5ca2e1d9aeb7832cab096cd1bd896e4481dede0/legal-mods/speedrunigt/1.21.7/SpeedRunIGT-14.2+1.21.7.jar"
+hash-format = "sha512"
+hash = "f05e3b738ae6ffa6be3713e60ac400c558058d94f2677f2677fa8c2c5b2d9c1c14bdea593488fb2e72899c670c23fc89c60032c568746897f4c9e64e46ca2575"
+
+[option]
+optional = false
+default = true
+description = "Displays the timer with RTA, IGT in Minecraft"

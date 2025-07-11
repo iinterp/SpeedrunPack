@@ -1,14 +1,5 @@
-- Updated **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)** [5.1.0+1.16.1 -> 5.2.0+1.16.1]
-- Updated **[Atum](https://github.com/KingContaria/atum-rewrite)** [2.5+1.16.1 -> 2.6+1.16.1]
-- Updated **[Extra Options](https://github.com/tildejustin/extra-options)** [2.1.0+1.16.1 -> 2.2.0+1.16.1]
-- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [2.2+1.16.1 -> 2.3+1.16.1]
-- Updated **[SeedQueue](https://github.com/KingContaria/seedqueue)** [1.4.1 -> 1.5.1]
-- Updated **[SleepBackground](https://github.com/RedLime/SleepBackground)** [4.0+1.16.1 -> 4.1.0+1.16.1]
-- Updated **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** [2.5.0+1.16.1 -> 2.5.0+1.16.1]
-- Updated **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** [2.0+1.16.1 -> 2.0+1.16.1]
-- Updated **[SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT)** [16.0+1.16.1 -> 16.0+1.16.1]
-- Updated **[StandardSettings](https://github.com/KingContaria/StandardSettings)** [2.3+1.16.1 -> 2.3+1.16.1]
-- Updated **[WorldPreview](https://github.com/KingContaria/mcsr-worldpreview-1.16.1)** [6.3.0+1.16.1 -> 6.3.0+1.16.1]
+- Updated **[Lazystronghold](https://github.com/Gregor0410/LazyStronghold)** [1.1.3 -> 1.1.4]
+- Updated **[Extra Options](https://github.com/tildejustin/extra-options)** [2.2.0+1.16.1 -> 2.2.1+1.16.1]
 
 ### Mod List
 - **[Antigone](https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-antigone-1.16.1)**
