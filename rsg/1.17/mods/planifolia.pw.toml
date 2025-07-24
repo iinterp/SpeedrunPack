@@ -1,0 +1,14 @@
+name = "Planifolia"
+filename = "planifolia-1.2.0+1.17-1.18.2.jar"
+side = "both"
+version = "1.2.0+1.17-1.18.2"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/713fad32f9d413bd3c6faa114de302f1719d4692/legal-mods/planifolia/1.17-1.18.2/planifolia-1.2.0+1.17-1.18.2.jar"
+hash-format = "sha512"
+hash = "eb446cea1f4669afa82bf3e1c374b9b80e699a8068a9a951035316297881bae7e617a240a974c0382fba3aed17030f5a2d4f5dd5e7809c2b203cc09c349ea731"
+
+[option]
+optional = false
+default = true
+description = "Vanilla VideoOptionsScreen for Sodium and gamma 5 for 1.19+"

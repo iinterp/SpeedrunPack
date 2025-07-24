@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "90b9dd93e094cd441b8df20d98fc4aada3cbed707d1506a16f528b32ed88f61d"
+hash = "1f2ac191004e7f9264c9be8df3147589cb2ea27ec12b61f88f1a17b25b0a15fc"
 metafile = true
 
 [[files]]

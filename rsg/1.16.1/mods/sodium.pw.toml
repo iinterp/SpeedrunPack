@@ -1,12 +1,12 @@
 name = "Sodium"
-filename = "sodium-2.5.0+1.16.1.jar"
+filename = "sodium-2.5.1+1.16.1.jar"
 side = "both"
-version = "2.5.0+1.16.1"
+version = "2.5.1+1.16.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/9a8e3e7d79e6e0f8b7ae5bb4003e3309718689dd/legal-mods/sodium/1.16.1/sodium-2.5.0+1.16.1.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/713fad32f9d413bd3c6faa114de302f1719d4692/legal-mods/sodium/1.16.1/sodium-2.5.1+1.16.1.jar"
 hash-format = "sha512"
-hash = "eafafc56ce53869f0d2f3d693089c9dedf65f4c32311462fdf990a783bd00b20a4502be8b8688e7a00a2bcff7f8993dbddb9970f5f52cbe6c606b78dad25ead7"
+hash = "10e2aa8d8c7d64bfd443323ac9e61a0f4c7feef3eb9ae5d83dbd5f115dfa2d25c83331093a02cedb70585ed27ed2cc68c2d74376ab23ad0493b9d249fe20cb2f"
 
 [option]
 optional = false

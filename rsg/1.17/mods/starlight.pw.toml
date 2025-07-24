@@ -1,0 +1,14 @@
+name = "Starlight"
+filename = "starlight-1.0.1+1.17.1.jar"
+side = "both"
+version = "1.0.1+1.17.1"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/713fad32f9d413bd3c6faa114de302f1719d4692/legal-mods/starlight/1.17-1.17.1/starlight-1.0.1+1.17.1.jar"
+hash-format = "sha512"
+hash = "949d444a2d97412849adc7736fb057299262a28b2151b255f060e670a190def160613a57bec1b8a4c8b254a2df12da32fdeb1d4cce5fd28d957e9360d52800de"
+
+[option]
+optional = false
+default = true
+description = "Rewrites the light engine to fix lighting performance and lighting errors"

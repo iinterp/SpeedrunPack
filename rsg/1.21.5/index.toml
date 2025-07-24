@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "90b9dd93e094cd441b8df20d98fc4aada3cbed707d1506a16f528b32ed88f61d"
+hash = "1f2ac191004e7f9264c9be8df3147589cb2ea27ec12b61f88f1a17b25b0a15fc"
 metafile = true
 
 [[files]]
@@ -11,8 +11,13 @@ hash = "9fb58a8e8b2de2cab99dc42c081e2e7430d7811f1541ce73ae4055cb10910fad"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "f9286b56143a6379ce798304766dec018bb6e411f31ba27a459eb3fbf86ce1af"
+metafile = true
+
+[[files]]
 file = "mods/fast_reset.pw.toml"
-hash = "0d43c9cffcedbac3a85982338deaa13fca244fc7f0595de0d6fa7b3bb69ff0f1"
+hash = "40cb48ca154749289fbc0b36be48879cfe53c6307276e0331f175bcd27a10e8a"
 metafile = true
 
 [[files]]
@@ -52,5 +57,5 @@ metafile = true
 
 [[files]]
 file = "mods/state-output.pw.toml"
-hash = "ed292916a47446d819cb1092b00cf6ff87fdcb062b70e8ba0d9cd8810d8c7bc9"
+hash = "6150c697e8a2eae5016a74ed6b5f0cfad5f8b476d18eb4aaea2fa863001eedef"
 metafile = true

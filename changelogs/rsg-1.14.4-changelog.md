@@ -1,9 +1,8 @@
-- Updated **[Atum](https://github.com/KingContaria/atum-rewrite)** [1.3.0+1.14.4 -> 1.3.1+1.14.4]
-- Updated **[ZBufferFog](https://github.com/RedLime/LegacyPlanarFog)** [1.4 -> 1.4.1]
+- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.0+1.14-1.15.2 -> 1.2.3+1.14-1.15.2]
 
 ### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
-- **[Atum](https://github.com/KingContaria/atum-rewrite)**
+- **[Atum](https://github.com/KingContaria/atum)**
 - **[Extra Options](https://github.com/tildejustin/extra-options)**
 - **[FastReset](https://github.com/KingContaria/FastReset)**
 - **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)**
@@ -15,5 +14,5 @@
 - **[Starlight](https://github.com/PaperMC/Starlight)**
 - **[State Output](https://github.com/tildejustin/state-output)**
 - **[Voyager](https://github.com/tildejustin/voyager)**
-- **[WorldPreview](https://github.com/KingContaria/mcsr-worldpreview-1.16.1)**
+- **[WorldPreview](https://github.com/KingContaria/worldpreview)**
 - **[ZBufferFog](https://github.com/RedLime/LegacyPlanarFog)**

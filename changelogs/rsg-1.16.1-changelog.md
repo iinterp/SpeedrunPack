@@ -1,10 +1,12 @@
-- Updated **[Lazystronghold](https://github.com/Gregor0410/LazyStronghold)** [1.1.3 -> 1.1.4]
-- Updated **[Extra Options](https://github.com/tildejustin/extra-options)** [2.2.0+1.16.1 -> 2.2.1+1.16.1]
+- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [2.3+1.16.x -> 2.4+1.16.x]
+- Updated **[SeedQueue](https://github.com/KingContaria/seedqueue)** [1.5.1+1.16.1 -> 1.5.2+1.16.1]
+- Updated **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** [2.5.0+1.16.1 -> 2.5.1+1.16.1]
+- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.0+1.16-1.18.1 -> 1.2.3+1.16-1.18.1]
 
 ### Mod List
-- **[Antigone](https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-antigone-1.16.1)**
+- **[Antigone](https://github.com/Minecraft-Java-Edition-Speedrunning/antigone)**
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
-- **[Atum](https://github.com/KingContaria/atum-rewrite)**
+- **[Atum](https://github.com/KingContaria/atum)**
 - **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)**
 - **[Extra Options](https://github.com/tildejustin/extra-options)**
 - **[FastReset](https://github.com/KingContaria/FastReset)**
@@ -22,4 +24,4 @@
 - **[Starlight](https://github.com/PaperMC/Starlight)**
 - **[State Output](https://github.com/tildejustin/state-output)**
 - **[Voyager](https://github.com/tildejustin/voyager)**
-- **[WorldPreview](https://github.com/KingContaria/mcsr-worldpreview-1.16.1)**
+- **[WorldPreview](https://github.com/KingContaria/worldpreview)**

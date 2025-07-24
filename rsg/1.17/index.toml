@@ -1,2 +1,96 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/antiresourcereload.pw.toml"
+hash = "f8f6f41ef8f3ef41c75d84bbb02cc81c686d84f1a45e0f11051c2a6e05efaba7"
+metafile = true
+
+[[files]]
+file = "mods/atum.pw.toml"
+hash = "6e0910de6a1986970eb86c33d93ea2aa587a70c7a8995d96befb60bf91474a49"
+metafile = true
+
+[[files]]
+file = "mods/biome_threadlocal_fix.pw.toml"
+hash = "beab203770a27295c5210cb2390691db6cac03c0c7d95da141b7cc306b4d9952"
+metafile = true
+
+[[files]]
+file = "mods/chunkumulator.pw.toml"
+hash = "0214ad1dc747b891912bbb4ed4c6fbd5b0c4e66c9ee55406400c239ca6c7312a"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "f082bbb9f0b3275e6c39ec352a247a5ea7109e977c8f189432561d48b34d63d1"
+metafile = true
+
+[[files]]
+file = "mods/fast_reset.pw.toml"
+hash = "afec1286c44c9d548a86a7cd3b7147329544c8fc95b9836a5c7825257e1634c5"
+metafile = true
+
+[[files]]
+file = "mods/forceport.pw.toml"
+hash = "880b060a6b21c5866eecac7b7337370bfd44978613c5cad0509fa9be5bcf30c6"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "a6332c5ca6415fd716cc5dcdb5cdbae76e95691b0ab88b4ceb2fe41073567a78"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "79d8acc0638aff455f1c12ae8e3d4c0433314e9fd3f06f8cfc7f9de7372d532e"
+metafile = true
+
+[[files]]
+file = "mods/lazystronghold.pw.toml"
+hash = "c485e3c58f8fabd92baa7c4505761d71496fbc3a8a5bb59885c80b1349cc00b1"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b5674f4b913e94a02f3495a9034a076368ffe403425c12a6528553ea15330877"
+metafile = true
+
+[[files]]
+file = "mods/planifolia.pw.toml"
+hash = "3f09a327c893a4a71b303d4d2801721bcc181356928bcf48fbcc9f56f31c1467"
+metafile = true
+
+[[files]]
+file = "mods/sleepbackground.pw.toml"
+hash = "e7313254c5c648dacda72051cc0df80dafa7a578ba8f726d93a77ab24670a103"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74acaca011b15f987e9986d8a521b0d72eb6eea3dd2917cd7ac0c148c73499b8"
+metafile = true
+
+[[files]]
+file = "mods/speedrunigt.pw.toml"
+hash = "3448283763ec94d8201a309652500180977258942bf6c554e0adc8faa17023d9"
+metafile = true
+
+[[files]]
+file = "mods/standardsettings.pw.toml"
+hash = "bd19ecbe8900c46429a9d19770a78437abba30744b246733f3f3fe942c169554"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "cc7d32c90006dcf8fcee912b4a397ffce498521da31663a59655b31f6f4b899a"
+metafile = true
+
+[[files]]
+file = "mods/state-output.pw.toml"
+hash = "cfec3aea6a37d116cf7d50f8c8f00e29e0a252574e9d499e5f77b9ae022cdddf"
+metafile = true
+
+[[files]]
+file = "mods/worldpreview.pw.toml"
+hash = "32064893cd3c8935f37c7203bbbb3b35ddcb1f2f4f68b199ea6261c2bfcd1e23"
+metafile = true

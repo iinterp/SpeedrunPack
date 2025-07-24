@@ -1,8 +1,8 @@
-- Updated **[StandardSettings](https://github.com/KingContaria/StandardSettings)** [1.2.4+1.19-1.19.2 -> 1.2.4+1.19-1.19.2]
-- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.2+1.18.2-1.21.6 -> 1.2.2+1.18.2-1.21.6]
+- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.4.3+1.19-1.19.2 -> 1.5.0+1.19-1.19.2]
+- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.2+1.18.2-1.21.6 -> 1.2.3+1.18.2-1.21.7]
 
 ### Mod List
-- **[Atum](https://github.com/KingContaria/atum-rewrite)**
+- **[Atum](https://github.com/KingContaria/atum)**
 - **[BiomeThreadLocalFix](https://github.com/RedLime/BiomeThreadLocalFix)**
 - **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)**
 - **[FabricProxy Lite](https://github.com/OKTW-Network/FabricProxy-Lite)**

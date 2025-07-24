@@ -1,8 +1,9 @@
-- Updated **[Starlight](https://github.com/PaperMC/Starlight)** [v7 -> 1.2.1+1.16.x-backport-1.1.3]
+- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.4.2+1.16.5 -> 1.5.0+1.16.5]
+- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.0+1.16-1.18.1 -> 1.2.3+1.16-1.18.1]
 
 ### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
-- **[Atum](https://github.com/KingContaria/atum-rewrite)**
+- **[Atum](https://github.com/KingContaria/atum)**
 - **[BiomeThreadLocalFix](https://github.com/RedLime/BiomeThreadLocalFix)**
 - **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)**
 - **[FabricProxy Lite](https://github.com/OKTW-Network/FabricProxy-Lite)**
@@ -19,4 +20,4 @@
 - **[Starlight](https://github.com/PaperMC/Starlight)**
 - **[State Output](https://github.com/tildejustin/state-output)**
 - **[Voyager](https://github.com/tildejustin/voyager)**
-- **[WorldPreview](https://github.com/KingContaria/mcsr-worldpreview-1.16.1)**
+- **[WorldPreview](https://github.com/KingContaria/worldpreview)**

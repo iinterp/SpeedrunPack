@@ -1,8 +1,9 @@
-- Added **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)** 1.1.1+MC1.18.2
+- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.4.2+1.17-1.18.1 -> 1.5.0+1.17-1.18.1]
+- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.0+1.16-1.18.1 -> 1.2.3+1.16-1.18.1]
 
 ### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
-- **[Atum](https://github.com/KingContaria/atum-rewrite)**
+- **[Atum](https://github.com/KingContaria/atum)**
 - **[BiomeThreadLocalFix](https://github.com/RedLime/BiomeThreadLocalFix)**
 - **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)**
 - **[FastReset](https://github.com/KingContaria/FastReset)**

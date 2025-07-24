@@ -1,8 +1,10 @@
-- Updated **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)** [1.0.3+MC1.17.1 -> 1.1.1+MC1.17.1]
+- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.4.2+1.17-1.18.1 -> 1.5.0+1.17-1.18.1]
+- Updated **[StandardSettings](https://github.com/KingContaria/StandardSettings)** [1.2.3.1+1.17.x -> 1.2.4+1.17.x]
+- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.0+1.16-1.18.1 -> 1.2.3+1.16-1.18.1]
 
 ### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
-- **[Atum](https://github.com/KingContaria/atum-rewrite)**
+- **[Atum](https://github.com/KingContaria/atum)**
 - **[BiomeThreadLocalFix](https://github.com/RedLime/BiomeThreadLocalFix)**
 - **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)**
 - **[FabricProxy Lite](https://github.com/OKTW-Network/FabricProxy-Lite)**
@@ -19,4 +21,4 @@
 - **[StandardSettings](https://github.com/KingContaria/StandardSettings)**
 - **[Starlight](https://github.com/PaperMC/Starlight)**
 - **[State Output](https://github.com/tildejustin/state-output)**
-- **[WorldPreview](https://github.com/KingContaria/mcsr-worldpreview-1.16.1)**
+- **[WorldPreview](https://github.com/KingContaria/worldpreview)**

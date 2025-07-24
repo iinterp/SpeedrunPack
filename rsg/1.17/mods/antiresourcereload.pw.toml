@@ -1,0 +1,14 @@
+name = "AntiResourceReload"
+filename = "antiresourcereload-4.0.1+1.17.1-1.18.1.jar"
+side = "both"
+version = "4.0.1+1.17.1-1.18.1"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/713fad32f9d413bd3c6faa114de302f1719d4692/legal-mods/antiresourcereload/1.17-1.18.1/antiresourcereload-4.0.1+1.17.1-1.18.1.jar"
+hash-format = "sha512"
+hash = "79bfc5bf5302f5d1c0de4981da65bef0334cd1d70872c0112fb25d85517ff9f3982fff0c3bdf22e797fa19a50642061211617f1378a8f9b369a58ff27c90fe0c"
+
+[option]
+optional = false
+default = true
+description = "Disables the monitored reload upon world creation."
