@@ -1,4 +1,4 @@
-- Updated **[Atum](https://github.com/KingContaria/atum)** [1.3.1+1.21.4 -> 1.3.4+1.21.4]
+- Updated **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)** [1.2.0 -> 1.3.0]
 
 ### Mod List
 - **[Atum](https://github.com/KingContaria/atum)**

@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/forceport.pw.toml"
-hash = "a58ec97db5e333c700c6c23800194c15cb97cddca6d8a1c1ac3a2031222f37cd"
+hash = "cb16723c8c5ab522cd4bd10e200b61cebc55fc0ab7eca8d76ececcd158399650"
 metafile = true
 
 [[files]]

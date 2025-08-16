@@ -1,12 +1,12 @@
 name = "WorldPreview"
-filename = "worldpreview-5.0.2+1.15.2.jar"
+filename = "worldpreview-6.3.0+1.15.2.jar"
 side = "both"
-version = "5.0.2+1.15.2"
+version = "6.3.0+1.15.2"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/worldpreview/1.15.2/worldpreview-5.0.2+1.15.2.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/ec16a95ad703c89afc96da2d398be156b133a7e8/legal-mods/worldpreview/1.15.2/worldpreview-6.3.0+1.15.2.jar"
 hash-format = "sha512"
-hash = "844d5f9849205aa2251622d2b5424ed3eadf180f3cbbe36a31872864490f95c079cddca623d25fd9fb40073660eb094f99fa98485ef48fd463cf1bc2b08671aa"
+hash = "9b1d6fa8a39429f50c7ca61a692a73862d75f3eacad49648697c9788365d671804356d385dea33afc9f5252552553b78ad55ab5dad0058cb18507101b2acb057"
 
 [option]
 optional = false

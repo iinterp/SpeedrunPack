@@ -1,6 +1,5 @@
-- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.4.2+1.17-1.18.1 -> 1.5.0+1.17-1.18.1]
-- Updated **[StandardSettings](https://github.com/KingContaria/StandardSettings)** [1.2.3.1+1.17.x -> 1.2.4+1.17.x]
-- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.0+1.16-1.18.1 -> 1.2.3+1.16-1.18.1]
+- Updated **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)** [1.2.0 -> 1.3.0]
+- Updated **[Starlight](https://github.com/PaperMC/Starlight)** [1.0.1+1.17.1 -> 1.3.0+1.17.x-backport-1.1.3]
 
 ### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**

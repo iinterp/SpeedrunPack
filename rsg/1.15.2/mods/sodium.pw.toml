@@ -1,14 +1,14 @@
 name = "Sodium"
-filename = "sodium-1.3.1+1.15.2.jar"
+filename = "sodium-1.5.1+1.15.2.jar"
 side = "both"
-version = "1.3.1+1.15.2"
+version = "1.5.1+1.15.2"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/sodium/1.15.2/sodium-1.3.1+1.15.2.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/ec16a95ad703c89afc96da2d398be156b133a7e8/legal-mods/sodium/1.15.2/sodium-1.5.1+1.15.2.jar"
 hash-format = "sha512"
-hash = "fbec3a34fe329022e93a2776ca46cea06d8e860a17c27eabcd48d8bde8f6590a24122191f812dde1d351591acc8ffcefb1fbb61f9be7f5b46f53acef89aed868"
+hash = "a2e26c280a8db9312b72a8f743ce741223546edd8fc512fa693dac711b04f090b1db91de825bce6a9b7a953b1537ec16e1197bf14c03ef4d97e1bda81b7b72d9"
 
 [option]
 optional = false
 default = true
-description = "Sodium is a free and open-source optimization mod for Minecraft which improves frame rates and reduces lag spikes."
+description = "Sodium is a powerful rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing many graphical issues"

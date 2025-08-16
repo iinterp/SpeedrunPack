@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/forceport.pw.toml"
-hash = "6cc90abc16b944bcc2f3061bca312de0119ac4a550a4b2f1fbd2a097aa5318a2"
+hash = "cb16723c8c5ab522cd4bd10e200b61cebc55fc0ab7eca8d76ececcd158399650"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "71624976a3942298dc16e30aa2e6c6387c926b2e4227ceb41208ce9a2bd84d01"
+hash = "e6339d430f043efea68601cf9405e28c0678f08d4c90e1db532719d44b862126"
 metafile = true
 
 [[files]]

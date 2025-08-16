@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/antiresourcereload.pw.toml"
-hash = "7a2e008910707d3257960b7167351c696c9df507416551d2c0f0ab24292162ac"
+hash = "9f81341cfc8bd44dd0004667fd8d7e6d90ba9a8f03514309e518d2e2617489f3"
 metafile = true
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "b233266793c3a8e3a24658f45d427e344f4dae7834dd3bd315b9daa85168b06f"
+hash = "be77b9bc6dda95adbe17b5b728f7c884164eed88f3d668d8a141c5937eb18f4c"
 metafile = true
 
 [[files]]
@@ -17,17 +17,17 @@ metafile = true
 
 [[files]]
 file = "mods/extra-options.pw.toml"
-hash = "d34c21f035b5c8759cfb78f49ad99d12d01727494412836dfcf5cdfab224fa3c"
+hash = "ba1400190f90fc1c0d987ffc808916a985fe48250d9b54b1b85bdd6d75d75677"
 metafile = true
 
 [[files]]
 file = "mods/fast_reset.pw.toml"
-hash = "a568dd176f01497a639851d49ea77f4801cda6d340a44c18b1c7e6fc8c718c91"
+hash = "94a4f01de3df14f1de2f663abfa6cff04072dbf9cedeb5906b6d6ad85bb364ac"
 metafile = true
 
 [[files]]
 file = "mods/forceport.pw.toml"
-hash = "6cc90abc16b944bcc2f3061bca312de0119ac4a550a4b2f1fbd2a097aa5318a2"
+hash = "cb16723c8c5ab522cd4bd10e200b61cebc55fc0ab7eca8d76ececcd158399650"
 metafile = true
 
 [[files]]
@@ -51,13 +51,23 @@ hash = "696cfc74f200764849cda663fcdfc45ed585042cf38a12dd0d488b878a8ff4f1"
 metafile = true
 
 [[files]]
+file = "mods/seedqueue.pw.toml"
+hash = "9570c59d26d12ae4f04edd57ea80e25fff5dea69cef9626f00cb9749d1a28f4a"
+metafile = true
+
+[[files]]
 file = "mods/sleepbackground.pw.toml"
-hash = "a5f13466014f2cbf04c035d87fb48e9bc7bfb920d05ff47faa03dcb986631985"
+hash = "2bc31d31bfd4a15a6e9c1ae1b2f00db1c425a16369e9cce70f85ca9e6ad9d2da"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "26594beb645c754e6d736929e67804d7bcb85cbf77a70a32331ca678e6d410be"
+hash = "6118813e72525f18cc58e3089feb78f17d43d7fbc5d490027ae68eb91e3350fc"
+metafile = true
+
+[[files]]
+file = "mods/speedrunapi.pw.toml"
+hash = "9a7f6b1dc1e6fa4ffb6e4c306f264d62d2d354125c2beb2b0eeff95244295647"
 metafile = true
 
 [[files]]
@@ -67,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/standardsettings.pw.toml"
-hash = "a92a5c7ea90a7340d0414214dcbd0e5d6eb515233768a26a6eec405ae50e42f7"
+hash = "4c6d0fd87267e4b860ae4460ecb8cb430bc824517ed8a94b51de11c0d98e94e1"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "5c76f1f40159d1e98ac94a40e2e700d1ec2ce0390912fcbba067874246759c08"
+hash = "bd8aa93be9da92b4d652661655aa6e6f3812d709b30395a158c3f4797520da32"
 metafile = true
 
 [[files]]
@@ -87,5 +97,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldpreview.pw.toml"
-hash = "d26744a7ccb7553369cbe5d2c17803bbd173d6043a6b87040333c03055dea118"
+hash = "9d2295d6ae3a2a118ad07d92fe1adbb61cc2bfe2b490e3dbc37091c0e160454d"
 metafile = true

@@ -1,7 +1,7 @@
-- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [2.3+1.16.x -> 2.4+1.16.x]
-- Updated **[SeedQueue](https://github.com/KingContaria/seedqueue)** [1.5.1+1.16.1 -> 1.5.2+1.16.1]
-- Updated **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** [2.5.0+1.16.1 -> 2.5.1+1.16.1]
-- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.0+1.16-1.18.1 -> 1.2.3+1.16-1.18.1]
+- Updated **[Atum](https://github.com/KingContaria/atum)** [2.6+1.16.1 -> 2.7+1.16.1]
+- Updated **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)** [1.2.0 -> 1.3.0]
+- Updated **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** [2.0+1.16.1 -> 2.1+1.16.1]
+- Updated **[Starlight](https://github.com/PaperMC/Starlight)** [1.2.1+1.16.x-backport-1.1.3 -> 1.3.0+1.16.x-backport-1.1.3]
 
 ### Mod List
 - **[Antigone](https://github.com/Minecraft-Java-Edition-Speedrunning/antigone)**
