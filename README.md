@@ -71,15 +71,15 @@ This is due to the StandardSettings mod, which changes your settings to a preset
 
 To fix this, you can either disable the mod or set it up to revert to the settings you choose.
 
-### Steps (MC 1.16.1)
+### Steps (MC 1.16.1/1.15.2)
 
 1. In the options menu, click on the Mod Configs button (the book icon)
 2. Open the StandardSettings config
 3. To disable StandardSettings set 'Use StandardSettings' to 'OFF'  
 Otherwise, change the settings in this menu to the ones you would usually use. You can press 'CTRL+F' to search for a setting.
 
-<details><summary>For MC versions other than 1.16.1</summary>
-Versions other than 1.16.1 use an older version of the StandardSettings mod which does not have an in-game GUI. 
+<details><summary>For MC versions other than 1.16.1/1.15.2</summary>
+Versions other than 1.16.1/1.15.2 use an older version of the StandardSettings mod which does not have an in-game GUI. 
 
 **To disable StandardSettings in this version you have to manually remove or disable the mod .jar file.**
 
@@ -87,11 +87,11 @@ If instead you want to setup StandardSettings, there are instructions [here](htt
 
 </details>
 
-## How to set up The Wall (MC 1.16.1 Only)
+## How to set up The Wall (MC 1.16.1/1.15.2 Only)
 > Generate many worlds at once on a single-instance using SeedQueue
 
 [Here's a video guide to setup SeedQueue](https://youtu.be/fGu2MYZxh_c). The guide is for MultiMC, but the steps should be similar in most other launchers.  
-You don't need to watch the separate video mentioned as the modpack does that setup for you.
+You don't need to watch the separate set-up video mentioned as the modpack does that bit for you.
 
 ## Other Resources
 
