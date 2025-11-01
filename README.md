@@ -6,7 +6,7 @@ Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com
 - **SeedQueue** - Generate many worlds at once with a built-in wall screen on a single instance
 - **WorldPreview** - Preview worlds while they are still generating, allowing you to reset early
 - **Atum** - Automatically creates a new world when you leave one, with a keybind to reset instantly
-- **MCSR Fairplay** - Provides verification and anti-cheat functionality for MCSR.
+- **MCSR Fairplay** - Provides verification and anti-cheat functionality for MCSR
 - **Many many performance mods** to increase FPS and make world generation faster
 
 ## Installation
