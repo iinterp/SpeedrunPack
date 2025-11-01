@@ -1,4 +1,5 @@
-- Updated **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)** [1.2.0 -> 1.3.0]
+- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.5.0+1.19-1.19.2 -> 1.5.1+1.19-1.19.2]
+- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.3+1.18.2-1.21.7 -> 1.2.3+1.18.2-1.21.8]
 
 ### Mod List
 - **[Atum](https://github.com/KingContaria/atum)**

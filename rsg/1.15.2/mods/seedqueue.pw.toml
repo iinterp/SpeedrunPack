@@ -1,12 +1,12 @@
 name = "SeedQueue"
-filename = "seedqueue-1.5.2+1.15.2.jar"
+filename = "seedqueue-1.5.3+1.15.2.jar"
 side = "both"
-version = "1.5.2+1.15.2"
+version = "1.5.3+1.15.2"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/ec16a95ad703c89afc96da2d398be156b133a7e8/legal-mods/seedqueue/1.15.2/seedqueue-1.5.2+1.15.2.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/1b14cab1dd87916b17ce957f42709da76ccb5b6a/legal-mods/seedqueue/1.15.2/seedqueue-1.5.3+1.15.2.jar"
 hash-format = "sha512"
-hash = "e61f113cb1bb68dd016a319243bf2753d24dd1518d323e59b16f4d505fbac167f19184136c7b9f7f1ea5c377654e68e04ffbb59aa7d6c71833b40af78a213187"
+hash = "4eb75bb31d04bb621217b891334f40f88bd1f5b4ed2888ceee605022b25dc7548917c4f6de127dfa79f9793b5db22bdc0d3d4c5648dfbd4fb8ade6f9df0379a5"
 
 [option]
 optional = false

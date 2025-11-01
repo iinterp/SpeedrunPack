@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/seedqueue.pw.toml"
-hash = "9570c59d26d12ae4f04edd57ea80e25fff5dea69cef9626f00cb9749d1a28f4a"
+hash = "1251a60bf583d1ffa88786f5b7dec1d37f1be2ebc50208afffabb659f8668b29"
 metafile = true
 
 [[files]]
@@ -97,5 +97,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldpreview.pw.toml"
-hash = "9d2295d6ae3a2a118ad07d92fe1adbb61cc2bfe2b490e3dbc37091c0e160454d"
+hash = "b9b54f26e0f3bb098428f0f687051b2c395dd6053ea16aa9889ad4982fb14f3c"
 metafile = true

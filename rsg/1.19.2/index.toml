@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast_reset.pw.toml"
-hash = "e823c123af53385b87f6a25db57a9874d6d4bff4b25ff42d6cee0159197a375b"
+hash = "1fcbde84e0f94a92597b2f1a68d0c377e3a89700a89706b4e576cbaff1ee35f8"
 metafile = true
 
 [[files]]
@@ -77,5 +77,5 @@ metafile = true
 
 [[files]]
 file = "mods/state-output.pw.toml"
-hash = "6150c697e8a2eae5016a74ed6b5f0cfad5f8b476d18eb4aaea2fa863001eedef"
+hash = "1bb5e0306d557db0ac6c72363372f15eef8cbae55c6deb96c8d9089bc5bf8c6b"
 metafile = true

@@ -56,8 +56,13 @@ hash = "0a371ac57198a2095c6ea84adbd741cff73a94f5e27119a58aa20e81b293e6c1"
 metafile = true
 
 [[files]]
+file = "mods/mcsrfairplay.pw.toml"
+hash = "98c9c7466675e5b2ced8f5174e1917fb3dd1102a022ff4063e32c716cfedefa6"
+metafile = true
+
+[[files]]
 file = "mods/seedqueue.pw.toml"
-hash = "0a38b0cc3739b3e721884da54ee493953a3877efd933fbcd0b0cd126e19efc13"
+hash = "71e0cbafb92764cb47d03433631041b794b0d704366a8ef5e46fa19946d7dc65"
 metafile = true
 
 [[files]]
@@ -102,5 +107,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldpreview.pw.toml"
-hash = "46df921231b67e7f9e3a4d6abc2cf665459b0e4cb5ffef2f9df7cc3c67cf52f0"
+hash = "1de0261c70cf2dd9733641219cad14c1cc7fe81db79299fc3831d6c2d5a604a3"
 metafile = true

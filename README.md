@@ -3,18 +3,19 @@
 Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com/mc) for modern versions of Minecraft.
 
 ### Includes:
-- **SeedQueue** - Generate many worlds at once with a built-in wall screen on one instance
+- **SeedQueue** - Generate many worlds at once with a built-in wall screen on a single instance
 - **WorldPreview** - Preview worlds while they are still generating, allowing you to reset early
 - **Atum** - Automatically creates a new world when you leave one, with a keybind to reset instantly
+- **MCSR Fairplay** - Provides verification and anti-cheat functionality for MCSR.
 - **Many many performance mods** to increase FPS and make world generation faster
 
 ## Installation
 
-**Java 17-22 is required.**
+**Java 17+ is required.**
 
 **Windows:** [Install Java 21 here](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre), download and run the .msi file.
 
-**Mac:** [You can follow these instructions](https://www.youtube.com/watch?v=GomIeW5xdBM) to install everything except the mods, since the modpack does that bit for you.
+**Mac:** [You can follow these instructions](https://www.youtube.com/watch?v=GomIeW5xdBM) to install everything except the mods, since the modpack does that bit for you. (Excluding Mac Sodium)
 
 **Linux:** Install OpenJDK 21 from your systems package manager.
 
@@ -56,7 +57,7 @@ Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com
 	
 You might think you should use the latest version of Minecraft, but there are many reasons that make **1.16.1** the most popular version for speedrunning. Not only is it the fastest version of the game, it also relies way less on RNG to complete a run than newer versions.
 
-Because of this, 1.16.1 gets the most support when it comes to speedrunning specific mods, resources, and guides. At the moment, 1.16.1 is the only version to have the _SeedQueue_ mod, which is a single-instance way to generate many worlds at the same time, making resetting much faster and easier.
+Because of this, 1.16.1 gets the most support when it comes to speedrunning specific mods, resources, and guides.
 
 However, other versions of Minecraft are still popular to speedrun. **1.15.2** is popular due to being the last version before The Nether Update, which dramatically changed Minecraft speedruns. This means that the speedrun route for 1.15.2 and below is very different from newer versions of the game.
 
@@ -99,6 +100,8 @@ You don't need to watch the separate video mentioned as the modpack does that se
 **[MCSR Ranked](https://modrinth.com/mod/mcsr-ranked)** - Ranked speedrunning mod 
 
 **[The MCSR Practice Map](https://github.com/Dibedy/The-MCSR-Practice-Map/releases/latest)** - All-in-one practice map
+
+**[MiniPracticeKit](https://github.com/Knawk/mc-MiniPracticeKit)** - Practice splits on any instance
 
 & more at **[MinecraftSpeedrunning.com](https://www.minecraftspeedrunning.com/public-resources)**
 

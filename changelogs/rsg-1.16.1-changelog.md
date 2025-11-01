@@ -1,7 +1,6 @@
-- Updated **[Atum](https://github.com/KingContaria/atum)** [2.6+1.16.1 -> 2.7+1.16.1]
-- Updated **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)** [1.2.0 -> 1.3.0]
-- Updated **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** [2.0+1.16.1 -> 2.1+1.16.1]
-- Updated **[Starlight](https://github.com/PaperMC/Starlight)** [1.2.1+1.16.x-backport-1.1.3 -> 1.3.0+1.16.x-backport-1.1.3]
+- Added **[MCSR Fairplay](https://github.com/ExeRSolver/mcsr-fairplay-public)** 1.1.2 - Provides verification and anti-cheat functionality for MCSR.
+- Updated **[SeedQueue](https://github.com/KingContaria/seedqueue)** [1.5.2+1.16.1 -> 1.6+1.16.1]
+- Updated **[WorldPreview](https://github.com/KingContaria/worldpreview)** [6.3.0+1.16.1 -> 6.3.1+1.16.1]
 
 ### Mod List
 - **[Antigone](https://github.com/Minecraft-Java-Edition-Speedrunning/antigone)**
@@ -15,6 +14,7 @@
 - **[LazyDFU](https://github.com/astei/lazydfu)**
 - **[Lazystronghold](https://github.com/Gregor0410/LazyStronghold)**
 - **[Lithium](https://github.com/KingContaria/lithium-mcsr)**
+- **[MCSR Fairplay](https://github.com/ExeRSolver/mcsr-fairplay-public)**
 - **[SeedQueue](https://github.com/KingContaria/seedqueue)**
 - **[SleepBackground](https://github.com/RedLime/SleepBackground)**
 - **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)**

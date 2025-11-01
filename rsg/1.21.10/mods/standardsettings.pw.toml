@@ -1,0 +1,14 @@
+name = "StandardSettings"
+filename = "standardsettings-1.2.5+1.21.9-1.21.10.jar"
+side = "both"
+version = "1.2.5+1.21.9-1.21.10"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/1b14cab1dd87916b17ce957f42709da76ccb5b6a/legal-mods/standardsettings/1.21.9-1.21.10/standardsettings-1.2.5+1.21.9-1.21.10.jar"
+hash-format = "sha512"
+hash = "8cf1ecc520343f34081aed824bd2c7949cad75a10798c78ed278834be3744a56e29c36fe6069267e68add216d4ce2e1e0e1c32242b4482fc02ab38dc6c0055d0"
+
+[option]
+optional = true
+default = false
+description = "Resetting Mod for Minecraft Speedrunning"

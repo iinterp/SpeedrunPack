@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast_reset.pw.toml"
-hash = "afec1286c44c9d548a86a7cd3b7147329544c8fc95b9836a5c7825257e1634c5"
+hash = "c30d6052fd363dc90eb288fc08f4e44a0a22598f1b8bc1092dcba1b1b47a819a"
 metafile = true
 
 [[files]]

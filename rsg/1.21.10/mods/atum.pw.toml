@@ -1,0 +1,14 @@
+name = "Atum"
+filename = "atum-1.3.4+1.21.9-1.21.10.jar"
+side = "both"
+version = "1.3.4+1.21.9-1.21.10"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/1b14cab1dd87916b17ce957f42709da76ccb5b6a/legal-mods/atum/1.21.9-1.21.10/atum-1.3.4+1.21.9-1.21.10.jar"
+hash-format = "sha512"
+hash = "2b8f5fddbec7c53c40feafa23efa18176a69844b2488892bf274a5cba0ddf3fa2fc036973b6c6967dc1ac1037c77da1a631282590fbd96d2582bd3117d7e2a2d"
+
+[option]
+optional = false
+default = true
+description = "Mod to automatically reset RSG and SSG"
