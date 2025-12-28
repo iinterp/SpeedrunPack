@@ -1,7 +1,4 @@
-- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.5.0+1.21.6-1.21.7 -> 1.5.1+1.21.6-1.21.8]
-- Updated **[Lithium](https://github.com/KingContaria/lithium-mcsr)** [0.18.0+mc1.21.8 -> 0.18.1+mc1.21.8]
-- Updated **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** [0.6.13+mc1.21.6 -> 0.7.2+mc1.21.8]
-- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.3+1.18.2-1.21.7 -> 1.2.3+1.18.2-1.21.8]
+- Updated **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** [0.7.2+mc1.21.8 -> 0.7.3+mc1.21.8]
 
 ### Mod List
 - **[Atum](https://github.com/KingContaria/atum)**

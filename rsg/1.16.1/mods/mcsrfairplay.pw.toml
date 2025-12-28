@@ -1,12 +1,12 @@
 name = "MCSR Fairplay"
-filename = "mcsrfairplay-1.1.2+1.16.1.jar"
+filename = "mcsrfairplay-1.1.4+1.16.1.jar"
 side = "both"
-version = "1.1.2+1.16.1"
+version = "1.1.4+1.16.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/1b14cab1dd87916b17ce957f42709da76ccb5b6a/legal-mods/mcsrfairplay/1.16.1/mcsrfairplay-1.1.2+1.16.1.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/40449ccab3493ab7609cd19675abd74922447891/legal-mods/mcsrfairplay/1.16.1/mcsrfairplay-1.1.4+1.16.1.jar"
 hash-format = "sha512"
-hash = "dbcefc64ede6e6b192fd232efac717e1a546fc9da2405d80b95c5603cc98937c4037abebcc0b50cd0cbd19d6d486ed45cecf7823618b9d3a49fd0386d5cee79f"
+hash = "b19df404a49864a00ea511cd8b541d2f26dcfbfd38128e7db3bbbefb2b1fea2d28cf542a7ad21590aca1cca690cc45626e19cc21286ea7a3474ff6d3d3037568"
 
 [option]
 optional = false

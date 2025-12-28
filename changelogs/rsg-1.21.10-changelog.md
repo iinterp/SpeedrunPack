@@ -1,3 +1,5 @@
+- Updated **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** [0.7.2+mc1.21.10 -> 0.7.3+mc1.21.10]
+
 ### Mod List
 - **[Atum](https://github.com/KingContaria/atum)**
 - **[BiomeThreadLocalFix](https://github.com/RedLime/BiomeThreadLocalFix)**

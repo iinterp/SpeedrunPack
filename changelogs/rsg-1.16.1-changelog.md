@@ -1,6 +1,5 @@
-- Added **[MCSR Fairplay](https://github.com/ExeRSolver/mcsr-fairplay-public)** 1.1.2 - Provides verification and anti-cheat functionality for MCSR.
-- Updated **[SeedQueue](https://github.com/KingContaria/seedqueue)** [1.5.2+1.16.1 -> 1.6+1.16.1]
-- Updated **[WorldPreview](https://github.com/KingContaria/worldpreview)** [6.3.0+1.16.1 -> 6.3.1+1.16.1]
+- Updated **[Atum](https://github.com/KingContaria/atum)** [2.7+1.16.1 -> 2.7.1+1.16.1]
+- Updated **[MCSR Fairplay](https://github.com/ExeRSolver/mcsr-fairplay-public)** [1.1.2+1.16.1 -> 1.1.4+1.16.1]
 
 ### Mod List
 - **[Antigone](https://github.com/Minecraft-Java-Edition-Speedrunning/antigone)**

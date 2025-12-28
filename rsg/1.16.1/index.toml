@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "e5bc0de901a61e06d56497db105a089115d701c5772f16da10b0731999498737"
+hash = "7c373442f56c50dd17e6010a843b13562700ad90270b2eea4a7d5fea4e1ac0ab"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcsrfairplay.pw.toml"
-hash = "98c9c7466675e5b2ced8f5174e1917fb3dd1102a022ff4063e32c716cfedefa6"
+hash = "bbb908a485a6678ffd16355b72a0f146b93425626fe009a7b4977e36af9f7879"
 metafile = true
 
 [[files]]
