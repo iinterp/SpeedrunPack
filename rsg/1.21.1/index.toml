@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7dede2adb030743b649508b36cad85c64d470b17ebb65b3e47b9b9624cf69646"
+hash = "7322857938046cdc4128d783711282728838a56c344f3ccf40422ae72474579d"
 metafile = true
 
 [[files]]
@@ -48,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "a4408c1cba016be887271965b7516397f8199b3802f739b8c51d88f1c0e5b88b"
+metafile = true
+
+[[files]]
+file = "mods/speedrunapi.pw.toml"
+hash = "942295139f820612c2903fca81fffd2b6e21a0fb865eff1e2ec2d0939b2e7264"
 metafile = true
 
 [[files]]

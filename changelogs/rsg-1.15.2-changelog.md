@@ -1,5 +1,7 @@
-- Updated **[SeedQueue](https://github.com/KingContaria/seedqueue)** [1.5.2+1.15.2 -> 1.5.3+1.15.2]
-- Updated **[WorldPreview](https://github.com/KingContaria/worldpreview)** [6.3.0+1.15.2 -> 6.3.1+1.15.2]
+- Updated **[Atum](https://github.com/KingContaria/atum)** [2.7+1.15.2 -> 2.7+1.15.x]
+- Updated **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** [2.1+1.15.2 -> 2.1+1.15.x]
+- Updated **[StandardSettings](https://github.com/KingContaria/StandardSettings)** [2.3+1.15.2 -> 2.3+1.15.x]
+- Updated **[WorldPreview](https://github.com/KingContaria/worldpreview)** [6.3.1+1.15.2 -> 6.3.1+1.15.x]
 
 ### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**

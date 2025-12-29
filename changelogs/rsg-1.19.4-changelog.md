@@ -1,5 +1,8 @@
-- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.5.0+1.19.4-1.21.5 -> 1.5.1+1.19.4-1.21.5]
-- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.3+1.18.2-1.21.7 -> 1.2.3+1.18.2-1.21.8]
+- Added **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** 2.1+1.19.4
+- Added **[WorldPreview](https://github.com/KingContaria/worldpreview)** 6.3.1+1.19.4
+- Updated **[Atum](https://github.com/KingContaria/atum)** [1.3.1+1.19.4 -> 2.6+1.19.4]
+- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.5.1+1.19.4-1.21.5 -> 2.4+1.19.3-1.19.4]
+- Updated **[StandardSettings](https://github.com/KingContaria/StandardSettings)** [1.2.4+1.19.3-1.19.4 -> 2.3+1.19.4]
 
 ### Mod List
 - **[Atum](https://github.com/KingContaria/atum)**
@@ -13,7 +16,9 @@
 - **[Planifolia](https://github.com/tildejustin/planifolia)**
 - **[SleepBackground](https://github.com/RedLime/SleepBackground)**
 - **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)**
+- **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)**
 - **[SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT)**
 - **[StandardSettings](https://github.com/KingContaria/StandardSettings)**
 - **[Starlight](https://github.com/PaperMC/Starlight)**
 - **[State Output](https://github.com/tildejustin/state-output)**
+- **[WorldPreview](https://github.com/KingContaria/worldpreview)**

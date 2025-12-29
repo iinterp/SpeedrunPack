@@ -1,0 +1,14 @@
+name = "WorldPreview"
+filename = "worldpreview-6.3.1+1.18.2.jar"
+side = "both"
+version = "6.3.1+1.18.2"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/5b0eecf4338d2b1818e3445e24481ac7c5d13663/legal-mods/worldpreview/1.18.2/worldpreview-6.3.1+1.18.2.jar"
+hash-format = "sha512"
+hash = "84ff13b32cf95b77c2fed989ee5d07bc9dc63a8ff18d47590eb4dd3f8c0ffb2dbe4ffccc1a5d3cf8355d35c95d6fd12b483127a5eab0259c687421430f19cc76"
+
+[option]
+optional = false
+default = true
+description = "Shows a preview of the world while it is generating."

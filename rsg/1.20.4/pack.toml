@@ -1,13 +1,13 @@
 name = "SpeedrunPack"
 author = "interp"
-version = "mc1.20.4-v4.7.0"
+version = "mc1.20.4-v5.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "588eeee9a8fd6650462cda5ea4ef9a6c7ade6c2d676155094929ec8165d34e20"
+hash = "9c3e724c291547155e722447fe94079d1da1363680f76999f7acb95aecc73fd0"
 
 [versions]
-fabric = "0.17.3"
+fabric = "0.18.4"
 minecraft = "1.20.4"

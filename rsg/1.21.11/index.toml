@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/biome_threadlocal_fix.pw.toml"
+hash = "389d59e4acae069a2cc40b62cb44490a9c1ed329a3acb6fa27bb23f3259941b8"
+metafile = true
+
+[[files]]
+file = "mods/fast_reset.pw.toml"
+hash = "796345d56dce6431b69821af6d3eb1ec437ceb8a1415ecb02df31ae0b833a17c"
+metafile = true
+
+[[files]]
+file = "mods/forceport.pw.toml"
+hash = "1fdf16b418a13b8997561b1af31bdb497bdfa5e13ac46a97db9777b4dda62abb"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "0c891c110ecb002e575212c9a211aad183747526d27a2afadec5dd1c52706c98"
+metafile = true
+
+[[files]]
+file = "mods/planifolia.pw.toml"
+hash = "b44e83c2b5895b9f5824120cd90df8807bf02659f18daf21a356ebc90cb489ab"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ffd59a37804a3b80245b0b474b3f87b7704bcfac5f70c58331da1a93d0eff291"
+metafile = true
+
+[[files]]
+file = "mods/speedrunigt.pw.toml"
+hash = "cc165501e2bf223fce8bb843afb8baf876986c2d85aa494cb1004fa645bcb42a"
+metafile = true

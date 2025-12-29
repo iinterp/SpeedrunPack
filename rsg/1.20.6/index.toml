@@ -46,6 +46,11 @@ hash = "a069251e9c3d23a426ecc069175c77ff8a281adab58893fb4431a65909c1a594"
 metafile = true
 
 [[files]]
+file = "mods/speedrunapi.pw.toml"
+hash = "74431ccfcd1ffc741695d167167fd9815bcfdab772b89dd163f1fb20f0046c86"
+metafile = true
+
+[[files]]
 file = "mods/speedrunigt.pw.toml"
 hash = "f433d637fda336022f319b54f6e617c5bce7d1e6330d7bedf8c8a13bd87223d8"
 metafile = true

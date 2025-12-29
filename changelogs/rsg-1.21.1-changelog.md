@@ -1,5 +1,5 @@
-- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.5.0+1.19.4-1.21.5 -> 1.5.1+1.19.4-1.21.5]
-- Updated **[State Output](https://github.com/tildejustin/state-output)** [1.2.3+1.18.2-1.21.7 -> 1.2.3+1.18.2-1.21.8]
+- Added **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** 2.1+1.21-1.21.1
+- Updated **[Lithium](https://github.com/KingContaria/lithium-mcsr)** [0.15.0+mc1.21.1 -> 0.15.1+mc1.21.1]
 
 ### Mod List
 - **[Atum](https://github.com/KingContaria/atum)**
@@ -12,6 +12,7 @@
 - **[Planifolia](https://github.com/tildejustin/planifolia)**
 - **[SleepBackground](https://github.com/RedLime/SleepBackground)**
 - **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)**
+- **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)**
 - **[SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT)**
 - **[StandardSettings](https://github.com/KingContaria/StandardSettings)**
 - **[State Output](https://github.com/tildejustin/state-output)**

@@ -1,4 +1,6 @@
-- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.5.0+1.17-1.18.1 -> 1.5.1+1.17-1.18.1]
+- Added **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** 2.1+1.17-1.18.2
+- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.5.1+1.17-1.18.1 -> 2.4+1.17-1.18.1]
+- Updated **[StandardSettings](https://github.com/KingContaria/StandardSettings)** [1.2.3+1.18.x -> 2.3+1.18-1.18.1]
 
 ### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
@@ -13,6 +15,7 @@
 - **[Planifolia](https://github.com/tildejustin/planifolia)**
 - **[SleepBackground](https://github.com/RedLime/SleepBackground)**
 - **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)**
+- **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)**
 - **[SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT)**
 - **[StandardSettings](https://github.com/KingContaria/StandardSettings)**
 - **[Starlight](https://github.com/PaperMC/Starlight)**

@@ -1,5 +1,8 @@
-- Updated **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)** [1.2.0 -> 1.3.0]
-- Updated **[Starlight](https://github.com/PaperMC/Starlight)** [1.0.0 -> 1.3.0+1.14.2-1.14.4-backport-1.1.3]
+- Added **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** 2.1+1.14.x
+- Updated **[Atum](https://github.com/KingContaria/atum)** [1.3.1+1.14.4 -> 2.6+1.14.1-1.14.4]
+- Updated **[FastReset](https://github.com/KingContaria/FastReset)** [1.0.0 -> 2.4+1.14.4]
+- Updated **[StandardSettings](https://github.com/KingContaria/StandardSettings)** [1.2.3.1+1.14.4 -> 2.3+1.14.4]
+- Updated **[WorldPreview](https://github.com/KingContaria/worldpreview)** [5.0.1+1.14.4 -> 6.3.1+1.14.3-1.14.4]
 
 ### Mod List
 - **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)**
@@ -10,6 +13,7 @@
 - **[LazyDFU](https://github.com/astei/lazydfu)**
 - **[Lazystronghold](https://github.com/Gregor0410/LazyStronghold)**
 - **[SleepBackground](https://github.com/RedLime/SleepBackground)**
+- **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)**
 - **[SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT)**
 - **[StandardSettings](https://github.com/KingContaria/StandardSettings)**
 - **[Starlight](https://github.com/PaperMC/Starlight)**

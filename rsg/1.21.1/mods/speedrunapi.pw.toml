@@ -1,0 +1,14 @@
+name = "Speedrun API"
+filename = "speedrunapi-2.1+1.21-1.21.1.jar"
+side = "both"
+version = "2.1+1.21-1.21.1"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/5b0eecf4338d2b1818e3445e24481ac7c5d13663/legal-mods/speedrunapi/1.21-1.21.1/speedrunapi-2.1+1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "bbce048346d0df5bba6b3966f11bb8b1921df55c3be33609d436d766f72adaa782845698b5524983bffb0fddb75634ea4f07cdc1a17653499c70d3bdbadeb7ea"
+
+[option]
+optional = false
+default = true
+description = "API for MCSR mods, providing a Config API, selected Fabric API modules and MixinExtras."

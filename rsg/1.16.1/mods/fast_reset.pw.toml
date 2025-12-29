@@ -1,12 +1,12 @@
 name = "FastReset"
-filename = "fast-reset-2.4+1.16.x.jar"
+filename = "fast-reset-2.4.1+1.16.x.jar"
 side = "both"
-version = "2.4+1.16.x"
+version = "2.4.1+1.16.x"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/713fad32f9d413bd3c6faa114de302f1719d4692/legal-mods/fast_reset/1.16.1/fast-reset-2.4+1.16.x.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/5b0eecf4338d2b1818e3445e24481ac7c5d13663/legal-mods/fast_reset/1.16-1.16.5/fast-reset-2.4.1+1.16.x.jar"
 hash-format = "sha512"
-hash = "b247bb151f59d0914e891b53fa468e7d9e648cc73636d82fb731183377312face9c7332d049400c04d1ff043465805bd74c3f03fd64fd7326173c38355db53ee"
+hash = "ad1af8459ab27a2e45a6d6834df9be92499df8a6def0171a6a49b1fab063ab70e854098b1b5f7b8f8a74198d3ce5eca2d266531ca1faeb0c80f4ceeb5bafd4a6"
 
 [option]
 optional = false

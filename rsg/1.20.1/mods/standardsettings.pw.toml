@@ -1,12 +1,12 @@
 name = "StandardSettings"
-filename = "standardsettings-1.2.5+1.20-1.21.1.jar"
+filename = "standardsettings-2.3+1.20-1.20.1.jar"
 side = "both"
-version = "1.2.5+1.20-1.21.1"
+version = "2.3+1.20-1.20.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/0150b198bba5d7d56e5460e940a3dd0f99fdef82/legal-mods/standardsettings/1.20-1.21.1/standardsettings-1.2.5+1.20-1.21.1.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/5b0eecf4338d2b1818e3445e24481ac7c5d13663/legal-mods/standardsettings/1.20-1.20.1/standardsettings-2.3+1.20-1.20.1.jar"
 hash-format = "sha512"
-hash = "763d4aa8b810654dcd3d2248c01bfebe39327ad88d67d8b711a7e022e3e3d4fc5a49a79bb7f804ff1405d14ffec03a79b14d9a08c086cd177def239b1bc51ad1"
+hash = "40d499f4dbfa418528474c2a0da9a11e5083399833b30297b471ed5b12686693d481e31bff680b71f9ad2161773dea5575369e977fbf673e7bd99ff28c1b7247"
 
 [option]
 optional = true

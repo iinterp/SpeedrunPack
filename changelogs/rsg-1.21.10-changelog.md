@@ -1,4 +1,4 @@
-- Updated **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** [0.7.2+mc1.21.10 -> 0.7.3+mc1.21.10]
+- Updated **[Lithium](https://github.com/KingContaria/lithium-mcsr)** [0.20.0+mc1.21.10 -> 0.20.1+mc1.21.10]
 
 ### Mod List
 - **[Atum](https://github.com/KingContaria/atum)**

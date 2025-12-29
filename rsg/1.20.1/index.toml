@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "24f0116eaf6c1b21cf3228d6ea292c9689ab77005b23b9d65ec5b610c19154a8"
+hash = "0a0ef09910b997c8115ced27877efffe742f2ddd0bd4f96a85f825ffffe64989"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast_reset.pw.toml"
-hash = "e0975111acc84b976b810a06165f244e5edab6db00e7a5affdd17b962f52f2d9"
+hash = "42050ce5fc0888df25f56473a9e80595cf189738c358de4e978947d026298246"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "5d7081ca5db6160d84e5796a8eb9ba2e6e48d8819fe8adabc1afe232c597ac8d"
+hash = "b271bf616fbf12fc44030f1718d1bbb6dec75a2db7a4435a7ed3564bab13ee48"
 metafile = true
 
 [[files]]
@@ -56,13 +56,18 @@ hash = "a505e29070f32bbedee5b316da0f4117471ebd02aef6b18ebefcacb166ddf1b1"
 metafile = true
 
 [[files]]
+file = "mods/speedrunapi.pw.toml"
+hash = "c81d859e492838f5023952e1eb162fd878349db8ac79e96490c3931e812d9d41"
+metafile = true
+
+[[files]]
 file = "mods/speedrunigt.pw.toml"
 hash = "3b7e74e7ef3c3a7909fd0f7fae5407e3e9d546cbe0825502058f3e51ab4937b2"
 metafile = true
 
 [[files]]
 file = "mods/standardsettings.pw.toml"
-hash = "89d513f85304ec15e18a2347a5fdc0d89d27ebef997236f61dbd06426cdbbe36"
+hash = "324ee1ef877a59bf1236e85e8a6698e681900ce6385b88408e03eb61958a3870"
 metafile = true
 
 [[files]]
@@ -73,4 +78,9 @@ metafile = true
 [[files]]
 file = "mods/state-output.pw.toml"
 hash = "1bb5e0306d557db0ac6c72363372f15eef8cbae55c6deb96c8d9089bc5bf8c6b"
+metafile = true
+
+[[files]]
+file = "mods/worldpreview.pw.toml"
+hash = "544286077d2d58472d19c48ef082ee2d439a5f810e9d351e4fec69978d899e53"
 metafile = true

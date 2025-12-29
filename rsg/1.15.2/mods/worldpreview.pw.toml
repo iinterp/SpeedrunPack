@@ -1,14 +1,14 @@
 name = "WorldPreview"
-filename = "worldpreview-6.3.1+1.15.2.jar"
+filename = "worldpreview-6.3.1+1.15.x.jar"
 side = "both"
-version = "6.3.1+1.15.2"
+version = "6.3.1+1.15.x"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/1b14cab1dd87916b17ce957f42709da76ccb5b6a/legal-mods/worldpreview/1.15.2/worldpreview-6.3.1+1.15.2.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/5b0eecf4338d2b1818e3445e24481ac7c5d13663/legal-mods/worldpreview/1.15-1.15.2/worldpreview-6.3.1+1.15.x.jar"
 hash-format = "sha512"
-hash = "82f3fe592bb17a6b821d13c22cc1b62e22bf4951963503fd46e550851f60800aac2aeec8bde63b13d663ef070e9d0855b26b581d094b8e6f9085d6f4782d2a29"
+hash = "c485f3293aeb1c83a1123cd4b310f479b0a288a9dcb70b72e63b29c8eabb39233750fa4490d5114a3fa6abaa96958f54b1692b6c290aff965038d2e2f6710c0e"
 
 [option]
 optional = false
 default = true
-description = "Makes you reset block game fast"
+description = "Shows a preview of the world while it is generating."

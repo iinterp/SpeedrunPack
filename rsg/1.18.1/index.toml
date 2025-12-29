@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast_reset.pw.toml"
-hash = "c30d6052fd363dc90eb288fc08f4e44a0a22598f1b8bc1092dcba1b1b47a819a"
+hash = "d38137291d3d8b66e33330574d5703ff77d77e77d0479c3d0063c16ae61ff65d"
 metafile = true
 
 [[files]]
@@ -61,13 +61,18 @@ hash = "20514334c60c97e6ddbd4ec90c63a097cbb4fd829825e57e7d446b41451f86db"
 metafile = true
 
 [[files]]
+file = "mods/speedrunapi.pw.toml"
+hash = "50337df229320fb3f736a881c2d463c3a2a17380f2c0472b8635ba4bf7fb414a"
+metafile = true
+
+[[files]]
 file = "mods/speedrunigt.pw.toml"
 hash = "f638259568bc7d303ebe298dd84703c09303ae739067a49325d8744a5f8745ab"
 metafile = true
 
 [[files]]
 file = "mods/standardsettings.pw.toml"
-hash = "87ce9a9c694790892840e1d932a57428dee57e75f6e1bd1be3a2bb639f3c78f5"
+hash = "ddbd71f45f0ce02f04393685eac19f772fcfdfde3d5e62476b8c99c14b361dc4"
 metafile = true
 
 [[files]]
